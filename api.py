@@ -1,5 +1,5 @@
 import pandas as pd
-from flask import Flask, jsonify
+from flask import Flask, jsonify, request
 
 app = Flask(__name__)
 app.config['JSON_AS_ASCII'] = False
@@ -8,11 +8,12 @@ app.config['JSON_AS_ASCII'] = False
 def homepage():
     return 'The API is running...'
 
-@app.route('/api')
+@app.route('/api', methods = ['GET'])
 def api_return():
     result = pd.read_csv('resultados.csv')
-    total = result['Resultado'][0]
-    resposta = {f'Resultado {0}': total}
+    index = request.args.get('page', default = 0, type = int)
+    total = result['Resultado'][index]
+    resposta = {f'Resultado {index}': total}
     return jsonify(resposta)
 
 
