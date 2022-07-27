@@ -1,0 +1,2103 @@
+,Rede1,Rede2,Confirmação rede 1,Confirmação rede 2,Resultado
+0,nan,Amendoeira,,P,Árvore de outra espécie
+1,Postes,Poste,PC,PC,Nenhuma identificação realizada
+2,nan,nan,,,Nenhuma identificação realizada
+3,nan,Palmeira,,Y,Palmeira
+4,nan,Palmeira,,PM,Palmeira
+5,nan,Palmeira,,Y,Palmeira
+6,nan,Mangueira,,Y,Árvore de outra espécie
+7,Folhas arredondadas,Palmeira,P,N,Nenhuma identificação realizada
+8,Outras,Palmeira,O,PM,Nenhuma identificação realizada
+9,nan,Amendoeira,,Y,Árvore de outra espécie
+10,nan,Mangueira,,Y,Árvore de outra espécie
+11,nan,Poste,,N,Nenhuma identificação realizada
+12,nan,Amendoeira,,P,Árvore de outra espécie
+13,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+14,nan,Mangueira,,P,Árvore de outra espécie
+15,nan,Amendoeira,,P,Árvore de outra espécie
+16,nan,Mangueira,,N,Árvore de outra espécie
+17,Palmeira,Palmeira,Y,Y,Palmeira
+18,nan,Palmeira,,Y,Palmeira
+19,nan,Amendoeira,,P,Árvore de outra espécie
+20,nan,Mangueira,,P,Árvore de outra espécie
+21,nan,Poste,,PC,Nenhuma identificação realizada
+22,Outras,Palmeira,O,N,Nenhuma identificação realizada
+23,nan,nan,,,Nenhuma identificação realizada
+24,nan,Palmeira,,Y,Palmeira
+25,nan,Amendoeira,,P,Árvore de outra espécie
+26,nan,Poste,,PC,Nenhuma identificação realizada
+27,nan,nan,,,Nenhuma identificação realizada
+28,Palmeira,Palmeira,Y,PM,Palmeira
+29,nan,Poste,,PC,Nenhuma identificação realizada
+30,Outras,Mangueira,O,N,Árvore de outra espécie
+31,nan,Palmeira,,Y,Palmeira
+32,nan,nan,,,Nenhuma identificação realizada
+33,Folhas lineares,Palmeira,Y,N,Nenhuma identificação realizada
+34,nan,Palmeira,,Y,Palmeira
+35,nan,Palmeira,,N,Palmeira
+36,Outras,Mangueira,O,N,Árvore de outra espécie
+37,nan,Palmeira,,Y,Palmeira
+38,nan,nan,,,Nenhuma identificação realizada
+39,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+40,nan,Mangueira,,N,Árvore de outra espécie
+41,nan,Palmeira,,Y,Palmeira
+42,Folhas arredondadas,Palmeira,Y,N,Nenhuma identificação realizada
+43,Folhas arredondadas,Mangueira,P,P,Árvore de outra espécie
+44,nan,Mangueira,,P,Árvore de outra espécie
+45,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+46,Folhas arredondadas,Cajueiro,P,P,Cajueiro
+47,nan,nan,,,Nenhuma identificação realizada
+48,nan,Palmeira,,N,Palmeira
+49,nan,Amendoeira,,P,Árvore de outra espécie
+50,nan,Mangueira,,P,Árvore de outra espécie
+51,nan,Mangueira,,P,Árvore de outra espécie
+52,nan,Poste,,PV,Nenhuma identificação realizada
+53,nan,nan,,,Nenhuma identificação realizada
+54,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+55,Palmeira,Palmeira,Y,Y,Palmeira
+56,nan,Poste,,PC,Nenhuma identificação realizada
+57,nan,nan,,,Nenhuma identificação realizada
+58,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+59,Outras,Palmeira,O,N,Nenhuma identificação realizada
+60,nan,nan,,,Nenhuma identificação realizada
+61,nan,Palmeira,,N,Palmeira
+62,nan,Amendoeira,,P,Árvore de outra espécie
+63,nan,Amendoeira,,N,Árvore de outra espécie
+64,nan,Poste,,PC,Nenhuma identificação realizada
+65,nan,Palmeira,,N,Palmeira
+66,Palmeira,Palmeira,Y,Y,Palmeira
+67,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+68,nan,Poste,,PC,Nenhuma identificação realizada
+69,nan,nan,,,Nenhuma identificação realizada
+70,Postes,Palmeira,PC,PV,Nenhuma identificação realizada
+71,nan,Mangueira,,P,Árvore de outra espécie
+72,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+73,Outras,Amendoeira,O,Y,Árvore de outra espécie
+74,Folhas arredondadas,nan,P,,Nenhuma identificação realizada
+75,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+76,nan,Poste,,PC,Nenhuma identificação realizada
+77,nan,Mangueira,,Y,Árvore de outra espécie
+78,Palmeira,Palmeira,Y,Y,Palmeira
+79,Folhas arredondadas,Poste,P,PC,Nenhuma identificação realizada
+80,nan,Mangueira,,N,Árvore de outra espécie
+81,Folhas arredondadas,Palmeira,PC,N,Nenhuma identificação realizada
+82,Outras,Amendoeira,O,P,Árvore de outra espécie
+83,nan,Poste,,PC,Nenhuma identificação realizada
+84,nan,nan,,,Nenhuma identificação realizada
+85,nan,Poste,,PC,Nenhuma identificação realizada
+86,nan,Palmeira,,N,Palmeira
+87,Postes,Mangueira,PC,N,Mangueira
+88,nan,Palmeira,,N,Palmeira
+89,nan,Palmeira,,PM,Palmeira
+90,nan,Amendoeira,,N,Árvore de outra espécie
+91,Postes,Poste,PC,PC,Nenhuma identificação realizada
+92,nan,Mangueira,,Y,Árvore de outra espécie
+93,Postes,Mangueira,PC,N,Mangueira
+94,nan,nan,,,Nenhuma identificação realizada
+95,Folhas arredondadas,Palmeira,P,N,Nenhuma identificação realizada
+96,nan,Palmeira,,N,Palmeira
+97,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+98,Postes,Mangueira,PC,N,Mangueira
+99,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+100,nan,Mangueira,,N,Árvore de outra espécie
+101,nan,Mangueira,,N,Árvore de outra espécie
+102,Palmeira,Palmeira,Y,PM,Palmeira
+103,Folhas lineares,Cajueiro,Y,Y,Árvore de outra espécie
+104,Folhas arredondadas,Mangueira,P,P,Árvore de outra espécie
+105,Folhas arredondadas,Mangueira,P,PC,Árvore de outra espécie
+106,nan,Mangueira,,N,Árvore de outra espécie
+107,nan,Amendoeira,,P,Árvore de outra espécie
+108,Outras,nan,O,,Nenhuma identificação realizada
+109,nan,Palmeira,,N,Palmeira
+110,Folhas arredondadas,Mangueira,P,P,Árvore de outra espécie
+111,nan,nan,,,Nenhuma identificação realizada
+112,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+113,Folhas arredondadas,Poste,P,PC,Nenhuma identificação realizada
+114,nan,Mangueira,,N,Árvore de outra espécie
+115,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+116,Outras,Palmeira,O,P,Nenhuma identificação realizada
+117,nan,Palmeira,,PM,Palmeira
+118,nan,Amendoeira,,P,Árvore de outra espécie
+119,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+120,Folhas lineares,Mangueira,P,Y,Mangueira
+121,nan,Mangueira,,Y,Árvore de outra espécie
+122,nan,Palmeira,,Y,Palmeira
+123,nan,Mangueira,,N,Árvore de outra espécie
+124,Postes,Poste,PC,PC,Nenhuma identificação realizada
+125,nan,nan,,,Nenhuma identificação realizada
+126,nan,Mangueira,,P,Árvore de outra espécie
+127,nan,nan,,,Nenhuma identificação realizada
+128,nan,Poste,,PC,Nenhuma identificação realizada
+129,Postes,Mangueira,PC,N,Mangueira
+130,Postes,Mangueira,PC,N,Mangueira
+131,nan,Amendoeira,,Y,Árvore de outra espécie
+132,nan,Amendoeira,,Y,Árvore de outra espécie
+133,nan,Poste,,PC,Nenhuma identificação realizada
+134,Folhas arredondadas,Amendoeira,Y,P,Amendoeira
+135,Folhas arredondadas,Palmeira,P,P,Nenhuma identificação realizada
+136,Postes,Amendoeira,PC,P,Amendoeira
+137,nan,Palmeira,,PM,Palmeira
+138,Palmeira,Palmeira,Y,Y,Palmeira
+139,nan,nan,,,Nenhuma identificação realizada
+140,nan,Mangueira,,N,Árvore de outra espécie
+141,Postes,Amendoeira,PC,P,Amendoeira
+142,Folhas arredondadas,Mangueira,Y,Y,Árvore de outra espécie
+143,nan,nan,,,Nenhuma identificação realizada
+144,nan,nan,,,Nenhuma identificação realizada
+145,nan,Poste,,PC,Nenhuma identificação realizada
+146,Postes,Mangueira,PC,N,Mangueira
+147,nan,Mangueira,,P,Árvore de outra espécie
+148,nan,nan,,,Nenhuma identificação realizada
+149,Postes,Mangueira,PC,N,Mangueira
+150,nan,nan,,,Nenhuma identificação realizada
+151,nan,Mangueira,,P,Árvore de outra espécie
+152,nan,Amendoeira,,Y,Árvore de outra espécie
+153,nan,Palmeira,,Y,Palmeira
+154,Postes,Mangueira,PC,P,Mangueira
+155,Folhas lineares,Mangueira,P,Y,Mangueira
+156,nan,Poste,,PC,Nenhuma identificação realizada
+157,Folhas arredondadas,Mangueira,P,N,Árvore de outra espécie
+158,nan,Mangueira,,P,Árvore de outra espécie
+159,Postes,Mangueira,PC,N,Mangueira
+160,nan,Mangueira,,P,Árvore de outra espécie
+161,nan,Poste,,PC,Nenhuma identificação realizada
+162,nan,Poste,,N,Nenhuma identificação realizada
+163,Outras,Cajueiro,O,P,Árvore de outra espécie
+164,Palmeira,Palmeira,Y,Y,Palmeira
+165,Outras,Mangueira,O,P,Árvore de outra espécie
+166,Folhas arredondadas,Palmeira,Y,N,Nenhuma identificação realizada
+167,Folhas arredondadas,Palmeira,P,N,Nenhuma identificação realizada
+168,Postes,Amendoeira,PC,P,Amendoeira
+169,nan,Amendoeira,,N,Árvore de outra espécie
+170,Postes,Mangueira,PC,N,Mangueira
+171,Folhas arredondadas,Mangueira,N,P,Árvore de outra espécie
+172,nan,Palmeira,,Y,Palmeira
+173,nan,nan,,,Nenhuma identificação realizada
+174,nan,Palmeira,,PM,Palmeira
+175,nan,nan,,,Nenhuma identificação realizada
+176,nan,nan,,,Nenhuma identificação realizada
+177,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+178,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+179,nan,Palmeira,,N,Palmeira
+180,nan,Palmeira,,N,Palmeira
+181,nan,nan,,,Nenhuma identificação realizada
+182,nan,Poste,,PC,Nenhuma identificação realizada
+183,nan,Palmeira,,N,Palmeira
+184,nan,nan,,,Nenhuma identificação realizada
+185,nan,Palmeira,,N,Palmeira
+186,Outras,Amendoeira,O,P,Árvore de outra espécie
+187,nan,Amendoeira,,P,Árvore de outra espécie
+188,nan,Palmeira,,PM,Palmeira
+189,Outras,Palmeira,O,N,Nenhuma identificação realizada
+190,nan,Poste,,PC,Nenhuma identificação realizada
+191,Folhas lineares,Cajueiro,P,P,Árvore de outra espécie
+192,Folhas lineares,Palmeira,N,PM,Nenhuma identificação realizada
+193,nan,Palmeira,,Y,Palmeira
+194,nan,Amendoeira,,P,Árvore de outra espécie
+195,nan,Palmeira,,PM,Palmeira
+196,nan,nan,,,Nenhuma identificação realizada
+197,nan,Amendoeira,,P,Árvore de outra espécie
+198,nan,Mangueira,,N,Árvore de outra espécie
+199,nan,Palmeira,,PM,Palmeira
+200,nan,Mangueira,,P,Árvore de outra espécie
+201,nan,Poste,,PC,Nenhuma identificação realizada
+202,nan,Mangueira,,P,Árvore de outra espécie
+203,nan,Poste,,PC,Nenhuma identificação realizada
+204,nan,Mangueira,,N,Árvore de outra espécie
+205,nan,Palmeira,,PM,Palmeira
+206,nan,Palmeira,,Y,Palmeira
+207,nan,Mangueira,,PM,Árvore de outra espécie
+208,nan,nan,,,Nenhuma identificação realizada
+209,Folhas lineares,Mangueira,P,P,Mangueira
+210,Folhas lineares,Palmeira,Y,N,Nenhuma identificação realizada
+211,Postes,Mangueira,PC,P,Mangueira
+212,nan,Poste,,PC,Nenhuma identificação realizada
+213,nan,Palmeira,,N,Palmeira
+214,nan,Palmeira,,N,Palmeira
+215,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+216,nan,Mangueira,,P,Árvore de outra espécie
+217,nan,Poste,,PC,Nenhuma identificação realizada
+218,nan,nan,,,Nenhuma identificação realizada
+219,Folhas lineares,Palmeira,Y,N,Nenhuma identificação realizada
+220,nan,Palmeira,,Y,Palmeira
+221,nan,nan,,,Nenhuma identificação realizada
+222,nan,Mangueira,,P,Árvore de outra espécie
+223,nan,Poste,,PC,Nenhuma identificação realizada
+224,nan,Mangueira,,N,Árvore de outra espécie
+225,Folhas lineares,Mangueira,P,P,Mangueira
+226,Outras,Palmeira,O,N,Nenhuma identificação realizada
+227,nan,nan,,,Nenhuma identificação realizada
+228,nan,Palmeira,,Y,Palmeira
+229,nan,Palmeira,,N,Palmeira
+230,nan,Poste,,PC,Nenhuma identificação realizada
+231,nan,Mangueira,,P,Árvore de outra espécie
+232,nan,Mangueira,,N,Árvore de outra espécie
+233,Folhas lineares,Palmeira,Y,N,Nenhuma identificação realizada
+234,nan,Palmeira,,N,Palmeira
+235,Palmeira,Palmeira,Y,Y,Palmeira
+236,nan,Palmeira,,PM,Palmeira
+237,nan,Amendoeira,,P,Árvore de outra espécie
+238,nan,Mangueira,,P,Árvore de outra espécie
+239,nan,Poste,,PC,Nenhuma identificação realizada
+240,nan,nan,,,Nenhuma identificação realizada
+241,nan,Palmeira,,PM,Palmeira
+242,Folhas arredondadas,Palmeira,P,N,Nenhuma identificação realizada
+243,Postes,Mangueira,PC,P,Mangueira
+244,nan,Mangueira,,N,Árvore de outra espécie
+245,Postes,Amendoeira,PC,P,Amendoeira
+246,nan,Amendoeira,,P,Árvore de outra espécie
+247,nan,Amendoeira,,N,Árvore de outra espécie
+248,nan,Mangueira,,N,Árvore de outra espécie
+249,nan,Poste,,PC,Nenhuma identificação realizada
+250,nan,Palmeira,,PM,Palmeira
+251,nan,Palmeira,,PM,Palmeira
+252,nan,nan,,,Nenhuma identificação realizada
+253,nan,Poste,,PC,Nenhuma identificação realizada
+254,nan,nan,,,Nenhuma identificação realizada
+255,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+256,Palmeira,Palmeira,Y,Y,Palmeira
+257,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+258,nan,Poste,,PC,Nenhuma identificação realizada
+259,nan,Poste,,PC,Nenhuma identificação realizada
+260,Postes,Mangueira,PC,N,Mangueira
+261,nan,Mangueira,,N,Árvore de outra espécie
+262,nan,Palmeira,,N,Palmeira
+263,nan,nan,,,Nenhuma identificação realizada
+264,nan,Poste,,PC,Nenhuma identificação realizada
+265,nan,Poste,,PC,Nenhuma identificação realizada
+266,nan,Palmeira,,N,Palmeira
+267,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+268,Postes,Amendoeira,PC,P,Amendoeira
+269,nan,nan,,,Nenhuma identificação realizada
+270,nan,nan,,,Nenhuma identificação realizada
+271,Postes,Cajueiro,PC,N,Cajueiro
+272,Postes,Poste,PC,PC,Nenhuma identificação realizada
+273,Palmeira,Palmeira,Y,Y,Palmeira
+274,Postes,Mangueira,PC,P,Mangueira
+275,nan,nan,,,Nenhuma identificação realizada
+276,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+277,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+278,nan,Palmeira,,N,Palmeira
+279,nan,nan,,,Nenhuma identificação realizada
+280,nan,Amendoeira,,P,Árvore de outra espécie
+281,Postes,Amendoeira,PC,P,Amendoeira
+282,nan,Palmeira,,N,Palmeira
+283,nan,Mangueira,,N,Árvore de outra espécie
+284,Palmeira,Palmeira,Y,Y,Palmeira
+285,nan,nan,,,Nenhuma identificação realizada
+286,nan,nan,,,Nenhuma identificação realizada
+287,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+288,nan,Mangueira,,N,Árvore de outra espécie
+289,Folhas arredondadas,Mangueira,Y,P,Árvore de outra espécie
+290,nan,Palmeira,,PM,Palmeira
+291,Postes,Amendoeira,PC,N,Amendoeira
+292,nan,Palmeira,,N,Palmeira
+293,nan,Mangueira,,P,Árvore de outra espécie
+294,nan,Palmeira,,Y,Palmeira
+295,nan,Mangueira,,N,Árvore de outra espécie
+296,nan,nan,,,Nenhuma identificação realizada
+297,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+298,nan,Mangueira,,P,Árvore de outra espécie
+299,nan,Mangueira,,P,Árvore de outra espécie
+300,Postes,Mangueira,PC,N,Mangueira
+301,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+302,Postes,Mangueira,PC,N,Mangueira
+303,nan,nan,,,Nenhuma identificação realizada
+304,nan,Amendoeira,,N,Árvore de outra espécie
+305,nan,Poste,,PC,Nenhuma identificação realizada
+306,nan,nan,,,Nenhuma identificação realizada
+307,nan,nan,,,Nenhuma identificação realizada
+308,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+309,nan,Mangueira,,N,Árvore de outra espécie
+310,Folhas arredondadas,Amendoeira,Y,P,Amendoeira
+311,nan,Mangueira,,N,Árvore de outra espécie
+312,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+313,nan,Poste,,PC,Nenhuma identificação realizada
+314,Folhas lineares,Palmeira,Y,N,Nenhuma identificação realizada
+315,nan,Palmeira,,PM,Palmeira
+316,nan,Poste,,PC,Nenhuma identificação realizada
+317,Palmeira,Palmeira,PM,PM,Palmeira
+318,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+319,nan,nan,,,Nenhuma identificação realizada
+320,nan,nan,,,Nenhuma identificação realizada
+321,Postes,Amendoeira,PC,P,Amendoeira
+322,Postes,Mangueira,PC,P,Mangueira
+323,nan,nan,,,Nenhuma identificação realizada
+324,nan,nan,,,Nenhuma identificação realizada
+325,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+326,nan,Amendoeira,,P,Árvore de outra espécie
+327,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+328,nan,nan,,,Nenhuma identificação realizada
+329,nan,Poste,,PC,Nenhuma identificação realizada
+330,nan,Palmeira,,N,Palmeira
+331,nan,Poste,,PC,Nenhuma identificação realizada
+332,nan,nan,,,Nenhuma identificação realizada
+333,nan,Poste,,PC,Nenhuma identificação realizada
+334,nan,nan,,,Nenhuma identificação realizada
+335,nan,Poste,,PC,Nenhuma identificação realizada
+336,nan,Poste,,PC,Nenhuma identificação realizada
+337,Postes,Cajueiro,PC,N,Cajueiro
+338,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+339,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+340,Folhas arredondadas,Mangueira,P,N,Árvore de outra espécie
+341,nan,Poste,,PC,Nenhuma identificação realizada
+342,Folhas lineares,Amendoeira,P,P,Árvore de outra espécie
+343,Postes,Poste,PC,PC,Nenhuma identificação realizada
+344,nan,Poste,,PC,Nenhuma identificação realizada
+345,nan,Palmeira,,N,Palmeira
+346,nan,Palmeira,,N,Palmeira
+347,nan,Mangueira,,P,Árvore de outra espécie
+348,Folhas arredondadas,Palmeira,P,PM,Nenhuma identificação realizada
+349,nan,Mangueira,,P,Árvore de outra espécie
+350,nan,nan,,,Nenhuma identificação realizada
+351,Folhas arredondadas,Cajueiro,P,P,Cajueiro
+352,Postes,Mangueira,PC,N,Mangueira
+353,nan,Amendoeira,,N,Árvore de outra espécie
+354,nan,Palmeira,,N,Palmeira
+355,nan,Mangueira,,P,Árvore de outra espécie
+356,nan,nan,,,Nenhuma identificação realizada
+357,nan,nan,,,Nenhuma identificação realizada
+358,nan,nan,,,Nenhuma identificação realizada
+359,nan,Palmeira,,N,Palmeira
+360,nan,Amendoeira,,N,Árvore de outra espécie
+361,nan,Poste,,PC,Nenhuma identificação realizada
+362,nan,Amendoeira,,N,Árvore de outra espécie
+363,nan,Mangueira,,Y,Árvore de outra espécie
+364,nan,Mangueira,,Y[3~,Árvore de outra espécie
+365,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+366,Palmeira,Palmeira,Y,PM,Palmeira
+367,Folhas lineares,Palmeira,Y,N,Nenhuma identificação realizada
+368,Postes,Mangueira,PC,Y,Mangueira
+369,Palmeira,Palmeira,Y,PM,Palmeira
+370,nan,Mangueira,,N,Árvore de outra espécie
+371,Postes,Mangueira,PC,N,Mangueira
+372,nan,nan,,,Nenhuma identificação realizada
+373,nan,nan,,,Nenhuma identificação realizada
+374,Postes,Mangueira,PC,P,Mangueira
+375,nan,Poste,,PC,Nenhuma identificação realizada
+376,Postes,Mangueira,PC,P,Mangueira
+377,Folhas arredondadas,Palmeira,Y,PM,Nenhuma identificação realizada
+378,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+379,nan,Mangueira,,N,Árvore de outra espécie
+380,Postes,Poste,PC,PC,Nenhuma identificação realizada
+381,Outras,Poste,O,N,Nenhuma identificação realizada
+382,nan,Mangueira,,P,Árvore de outra espécie
+383,nan,Palmeira,,PM,Palmeira
+384,nan,Palmeira,,N,Palmeira
+385,nan,Amendoeira,,P,Árvore de outra espécie
+386,nan,Amendoeira,,p,Árvore de outra espécie
+387,Outras,Palmeira,O,Y,Nenhuma identificação realizada
+388,Outras,Palmeira,O,PC,Nenhuma identificação realizada
+389,Postes,Amendoeira,PC,N,Amendoeira
+390,nan,Mangueira,,N,Árvore de outra espécie
+391,nan,Palmeira,,N,Palmeira
+392,nan,Palmeira,,PM,Palmeira
+393,nan,nan,,,Nenhuma identificação realizada
+394,nan,Amendoeira,,P,Árvore de outra espécie
+395,nan,Palmeira,,PM,Palmeira
+396,nan,Poste,,N,Nenhuma identificação realizada
+397,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+398,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+399,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+400,nan,Mangueira,,N,Árvore de outra espécie
+401,nan,Poste,,PC,Nenhuma identificação realizada
+402,Outras,Amendoeira,O,P,Árvore de outra espécie
+403,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+404,nan,Palmeira,,N,Palmeira
+405,nan,nan,,,Nenhuma identificação realizada
+406,nan,Poste,,PC,Nenhuma identificação realizada
+407,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+408,Folhas arredondadas,Mangueira,P,N,Árvore de outra espécie
+409,nan,Mangueira,,N,Árvore de outra espécie
+410,Folhas lineares,Mangueira,N,P,Mangueira
+411,Folhas lineares,Amendoeira,Y,Y,Árvore de outra espécie
+412,nan,Palmeira,,PM,Palmeira
+413,nan,Palmeira,,N,Palmeira
+414,nan,Palmeira,,Y,Palmeira
+415,nan,Poste,,PC,Nenhuma identificação realizada
+416,nan,Amendoeira,,P,Árvore de outra espécie
+417,nan,Palmeira,,N,Palmeira
+418,nan,Poste,,PC,Nenhuma identificação realizada
+419,Postes,Amendoeira,PC,N,Amendoeira
+420,Outras,Palmeira,O,PM,Nenhuma identificação realizada
+421,Postes,Mangueira,PC,N,Mangueira
+422,nan,Mangueira,,P,Árvore de outra espécie
+423,nan,Palmeira,,Y,Palmeira
+424,nan,nan,,,Nenhuma identificação realizada
+425,nan,Poste,,PC,Nenhuma identificação realizada
+426,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+427,nan,Poste,,PC,Nenhuma identificação realizada
+428,nan,Mangueira,,N,Árvore de outra espécie
+429,Folhas arredondadas,Amendoeira,P,Y,Amendoeira
+430,nan,Mangueira,,N,Árvore de outra espécie
+431,nan,Mangueira,,N,Árvore de outra espécie
+432,Palmeira,Mangueira,Y,N,Palmeira
+433,nan,Mangueira,,P,Árvore de outra espécie
+434,nan,Palmeira,,Y,Palmeira
+435,nan,Poste,,PC,Nenhuma identificação realizada
+436,nan,nan,,,Nenhuma identificação realizada
+437,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+438,nan,Mangueira,,N,Árvore de outra espécie
+439,Folhas arredondadas,Mangueira,P,P,Árvore de outra espécie
+440,nan,Amendoeira,,N,Árvore de outra espécie
+441,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+442,nan,Palmeira,,Y,Palmeira
+443,nan,Poste,,PC,Nenhuma identificação realizada
+444,Folhas arredondadas,Mangueira,P,P,Árvore de outra espécie
+445,Postes,Poste,PC,PC,Nenhuma identificação realizada
+446,Postes,Poste,PC,PC,Nenhuma identificação realizada
+447,nan,Palmeira,,N,Palmeira
+448,Postes,Poste,PC,PC,Nenhuma identificação realizada
+449,Postes,Amendoeira,PC,N,Amendoeira
+450,nan,nan,,,Nenhuma identificação realizada
+451,Postes,Amendoeira,PC,P,Amendoeira
+452,nan,Amendoeira,,P,Árvore de outra espécie
+453,Outras,Palmeira,O,Y,Nenhuma identificação realizada
+454,nan,nan,,,Nenhuma identificação realizada
+455,nan,Amendoeira,,P,Árvore de outra espécie
+456,nan,nan,,,Nenhuma identificação realizada
+457,nan,Poste,,PC,Nenhuma identificação realizada
+458,nan,Mangueira,,P,Árvore de outra espécie
+459,nan,Palmeira,,N,Palmeira
+460,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+461,nan,Mangueira,,N,Árvore de outra espécie
+462,nan,nan,,,Nenhuma identificação realizada
+463,nan,Poste,,PC,Nenhuma identificação realizada
+464,nan,Amendoeira,,P,Árvore de outra espécie
+465,nan,Palmeira,,PM,Palmeira
+466,Folhas arredondadas,Mangueira,N,N,Árvore de outra espécie
+467,nan,Amendoeira,,P,Árvore de outra espécie
+468,nan,Mangueira,,N,Árvore de outra espécie
+469,Postes,Mangueira,PC,N,Mangueira
+470,Outras,Mangueira,O,N,Árvore de outra espécie
+471,Postes,Poste,PC,PC,Nenhuma identificação realizada
+472,nan,Poste,,PC,Nenhuma identificação realizada
+473,nan,Mangueira,,N,Árvore de outra espécie
+474,nan,Mangueira,,Y,Árvore de outra espécie
+475,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+476,nan,Poste,,PC,Nenhuma identificação realizada
+477,nan,Palmeira,,N,Palmeira
+478,nan,Palmeira,,N,Palmeira
+479,nan,Poste,,PC,Nenhuma identificação realizada
+480,nan,Mangueira,,N,Árvore de outra espécie
+481,nan,Palmeira,,N,Palmeira
+482,nan,Mangueira,,N,Árvore de outra espécie
+483,Folhas lineares,Palmeira,Y,N,Nenhuma identificação realizada
+484,Folhas arredondadas,Amendoeira,Y,P,Amendoeira
+485,Postes,Amendoeira,PC,N,Amendoeira
+486,nan,Palmeira,,N,Palmeira
+487,nan,Mangueira,,N,Árvore de outra espécie
+488,Folhas arredondadas,Palmeira,P,N,Nenhuma identificação realizada
+489,nan,Mangueira,,P,Árvore de outra espécie
+490,Postes,Poste,PC,PC,Nenhuma identificação realizada
+491,Palmeira,Palmeira,Y,Y,Palmeira
+492,Folhas arredondadas,Palmeira,P,M,Nenhuma identificação realizada
+493,Palmeira,Poste,Y,PC,Palmeira
+494,nan,Amendoeira,,N,Árvore de outra espécie
+495,nan,Mangueira,,N,Árvore de outra espécie
+496,nan,Mangueira,,P,Árvore de outra espécie
+497,Outras,Mangueira,O,N,Árvore de outra espécie
+498,nan,Mangueira,,N,Árvore de outra espécie
+499,nan,Poste,,PC,Nenhuma identificação realizada
+500,nan,Palmeira,,"N,",Palmeira
+501,nan,Palmeira,,N,Palmeira
+502,nan,nan,,,Nenhuma identificação realizada
+503,Outras,Amendoeira,O,P,Árvore de outra espécie
+504,nan,Palmeira,,PM,Palmeira
+505,nan,Amendoeira,,N,Árvore de outra espécie
+506,Postes,Mangueira,PC,N,Mangueira
+507,nan,Amendoeira,,N,Árvore de outra espécie
+508,nan,Mangueira,,N,Árvore de outra espécie
+509,nan,Amendoeira,,P,Árvore de outra espécie
+510,nan,Amendoeira,,P,Árvore de outra espécie
+511,Folhas arredondadas,Palmeira,N,PM,Nenhuma identificação realizada
+512,nan,Mangueira,,N,Árvore de outra espécie
+513,nan,Poste,,PC,Nenhuma identificação realizada
+514,Folhas arredondadas,Cajueiro,P,N,Cajueiro
+515,Postes,Mangueira,PC,N,Mangueira
+516,nan,nan,,,Nenhuma identificação realizada
+517,nan,Palmeira,,Pm,Palmeira
+518,nan,Poste,,PC,Nenhuma identificação realizada
+519,Folhas arredondadas,Palmeira,N,N,Nenhuma identificação realizada
+520,nan,nan,,,Nenhuma identificação realizada
+521,nan,Amendoeira,,N,Árvore de outra espécie
+522,Folhas arredondadas,Mangueira,P,P,Árvore de outra espécie
+523,Folhas arredondadas,Mangueira,N,N,Árvore de outra espécie
+524,nan,nan,,,Nenhuma identificação realizada
+525,Postes,Mangueira,PC,N,Mangueira
+526,nan,Poste,,N,Nenhuma identificação realizada
+527,nan,Palmeira,,Pm,Palmeira
+528,Folhas arredondadas,Amendoeira,N,N,Amendoeira
+529,nan,nan,,,Nenhuma identificação realizada
+530,Outras,Mangueira,O,N,Árvore de outra espécie
+531,nan,nan,,,Nenhuma identificação realizada
+532,Folhas arredondadas,Amendoeira,Y,P,Amendoeira
+533,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+534,nan,Palmeira,,N,Palmeira
+535,nan,Poste,,N,Nenhuma identificação realizada
+536,nan,Mangueira,,N,Árvore de outra espécie
+537,nan,Amendoeira,,N,Árvore de outra espécie
+538,Postes,Poste,PC,PC,Nenhuma identificação realizada
+539,nan,Mangueira,,P,Árvore de outra espécie
+540,nan,nan,,,Nenhuma identificação realizada
+541,nan,Amendoeira,,N,Árvore de outra espécie
+542,nan,Palmeira,,N,Palmeira
+543,Folhas arredondadas,Amendoeira,Y,P,Amendoeira
+544,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+545,nan,Poste,,PC,Nenhuma identificação realizada
+546,Folhas lineares,Palmeira,Y,N,Nenhuma identificação realizada
+547,Postes,Mangueira,PC,N,Mangueira
+548,nan,nan,,,Nenhuma identificação realizada
+549,nan,Poste,,PC,Nenhuma identificação realizada
+550,nan,nan,,,Nenhuma identificação realizada
+551,Postes,Mangueira,PC,N,Mangueira
+552,Postes,Amendoeira,PC,N,Amendoeira
+553,nan,nan,,,Nenhuma identificação realizada
+554,nan,Mangueira,,N,Árvore de outra espécie
+555,Postes,Mangueira,PC,N,Mangueira
+556,nan,Amendoeira,,P,Árvore de outra espécie
+557,nan,Mangueira,,P,Árvore de outra espécie
+558,nan,Palmeira,,N,Palmeira
+559,Folhas arredondadas,Palmeira,P,N,Nenhuma identificação realizada
+560,nan,nan,,,Nenhuma identificação realizada
+561,nan,nan,,,Nenhuma identificação realizada
+562,nan,Mangueira,,N,Árvore de outra espécie
+563,nan,Amendoeira,,P,Árvore de outra espécie
+564,Postes,Mangueira,PC,P,Mangueira
+565,Folhas lineares,Palmeira,Y,N,Nenhuma identificação realizada
+566,nan,Mangueira,,N,Árvore de outra espécie
+567,nan,Mangueira,,N,Árvore de outra espécie
+568,nan,Palmeira,,PM,Palmeira
+569,nan,Mangueira,,Y,Árvore de outra espécie
+570,nan,nan,,,Nenhuma identificação realizada
+571,nan,Amendoeira,,N,Árvore de outra espécie
+572,Palmeira,Palmeira,Y,Y,Palmeira
+573,nan,nan,,,Nenhuma identificação realizada
+574,nan,Palmeira,,PM,Palmeira
+575,nan,Poste,,PC,Nenhuma identificação realizada
+576,nan,Palmeira,,P,Palmeira
+577,nan,Poste,,PC,Nenhuma identificação realizada
+578,nan,nan,,,Nenhuma identificação realizada
+579,nan,Amendoeira,,P,Árvore de outra espécie
+580,nan,Palmeira,,Y,Palmeira
+581,Folhas lineares,Amendoeira,P,Y,Árvore de outra espécie
+582,Folhas lineares,Mangueira,Y,Y,Mangueira
+583,Postes,Mangueira,PC,P,Mangueira
+584,Folhas arredondadas,Palmeira,Y,Pm,Nenhuma identificação realizada
+585,nan,Mangueira,,P,Árvore de outra espécie
+586,nan,Mangueira,,N,Árvore de outra espécie
+587,nan,Poste,,PC,Nenhuma identificação realizada
+588,Folhas lineares,Amendoeira,Y,P,Árvore de outra espécie
+589,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+590,nan,Palmeira,,N,Palmeira
+591,Postes,Mangueira,PC,P,Mangueira
+592,nan,nan,,,Nenhuma identificação realizada
+593,nan,Palmeira,,N,Palmeira
+594,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+595,Folhas arredondadas,Mangueira,P,Y,Árvore de outra espécie
+596,Folhas arredondadas,Mangueira,P,,Árvore de outra espécie
+597,Folhas lineares,Palmeira,Y,N,Nenhuma identificação realizada
+598,Folhas arredondadas,Mangueira,P,Y,Árvore de outra espécie
+599,nan,Mangueira,,N,Árvore de outra espécie
+600,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+601,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+602,nan,Mangueira,,Y,Árvore de outra espécie
+603,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+604,Folhas arredondadas,Mangueira,P,P,Árvore de outra espécie
+605,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+606,Postes,Mangueira,P,N,Mangueira
+607,Postes,Poste,PC,PC,Nenhuma identificação realizada
+608,Folhas arredondadas,Mangueira,P,N,Árvore de outra espécie
+609,nan,Palmeira,,PM,Palmeira
+610,nan,Mangueira,,P,Árvore de outra espécie
+611,Folhas lineares,Mangueira,Y,P,Mangueira
+612,Outras,Mangueira,O,P,Árvore de outra espécie
+613,Outras,Poste,O,PC,Nenhuma identificação realizada
+614,nan,nan,,,Nenhuma identificação realizada
+615,nan,Mangueira,,N,Árvore de outra espécie
+616,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+617,nan,Poste,,PC,Nenhuma identificação realizada
+618,nan,Palmeira,,PM,Palmeira
+619,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+620,nan,Palmeira,,N,Palmeira
+621,Postes,Mangueira,PC,P,Mangueira
+622,nan,Mangueira,,P,Árvore de outra espécie
+623,nan,Palmeira,,Y,Palmeira
+624,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+625,nan,Poste,,PC,Nenhuma identificação realizada
+626,Outras,Mangueira,O,N,Árvore de outra espécie
+627,Postes,Mangueira,PC,P,Mangueira
+628,nan,Palmeira,,N,Palmeira
+629,nan,Palmeira,,N,Palmeira
+630,nan,Palmeira,,PM,Palmeira
+631,Folhas arredondadas,Mangueira,Y,Y,Árvore de outra espécie
+632,nan,nan,,,Nenhuma identificação realizada
+633,nan,Poste,,PC,Nenhuma identificação realizada
+634,Folhas arredondadas,Palmeira,P,PM,Nenhuma identificação realizada
+635,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+636,nan,Poste,,PXC,Nenhuma identificação realizada
+637,nan,Mangueira,,N,Árvore de outra espécie
+638,nan,Amendoeira,,Y,Árvore de outra espécie
+639,nan,Palmeira,,PM,Palmeira
+640,nan,Mangueira,,N,Árvore de outra espécie
+641,Postes,Poste,PC,PC,Nenhuma identificação realizada
+642,Folhas arredondadas,Amendoeira,Y,P,Amendoeira
+643,nan,Mangueira,,Y,Árvore de outra espécie
+644,nan,Amendoeira,,p,Árvore de outra espécie
+645,nan,Palmeira,,Y,Palmeira
+646,nan,Palmeira,,PM,Palmeira
+647,nan,Palmeira,,N,Palmeira
+648,Outras,Amendoeira,O,P,Árvore de outra espécie
+649,Folhas arredondadas,Mangueira,N,P,Árvore de outra espécie
+650,nan,Poste,,PC,Nenhuma identificação realizada
+651,Postes,Poste,PC,PC,Nenhuma identificação realizada
+652,Outras,Amendoeira,O,P,Árvore de outra espécie
+653,nan,nan,,,Nenhuma identificação realizada
+654,Palmeira,Palmeira,Y,Y,Palmeira
+655,nan,Poste,,PC,Nenhuma identificação realizada
+656,Postes,Poste,PC,PC,Nenhuma identificação realizada
+657,nan,nan,,,Nenhuma identificação realizada
+658,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+659,nan,Poste,,PC,Nenhuma identificação realizada
+660,Folhas arredondadas,Poste,N,PC,Nenhuma identificação realizada
+661,nan,Palmeira,,PM,Palmeira
+662,nan,Palmeira,,PM,Palmeira
+663,nan,Amendoeira,,N,Árvore de outra espécie
+664,nan,Mangueira,,Y,Árvore de outra espécie
+665,Palmeira,Palmeira,Y,PM,Palmeira
+666,Postes,Poste,PC,PC,Nenhuma identificação realizada
+667,Postes,Palmeira,PC,PC,Nenhuma identificação realizada
+668,nan,Poste,,PC,Nenhuma identificação realizada
+669,nan,Poste,,PC,Nenhuma identificação realizada
+670,Folhas arredondadas,Mangueira,P,P,Árvore de outra espécie
+671,nan,Palmeira,,Y,Palmeira
+672,Folhas arredondadas,Palmeira,N,N,Nenhuma identificação realizada
+673,nan,Palmeira,,N,Palmeira
+674,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+675,nan,Poste,,PC,Nenhuma identificação realizada
+676,nan,nan,,,Nenhuma identificação realizada
+677,nan,Mangueira,,N,Árvore de outra espécie
+678,Postes,Poste,PC,PC,Nenhuma identificação realizada
+679,Postes,Amendoeira,PC,Y,Amendoeira
+680,Folhas arredondadas,Amendoeira,Y,Y,Amendoeira
+681,nan,nan,,,Nenhuma identificação realizada
+682,nan,Palmeira,,Y,Palmeira
+683,nan,Mangueira,,N,Árvore de outra espécie
+684,nan,Mangueira,,P,Árvore de outra espécie
+685,nan,nan,,,Nenhuma identificação realizada
+686,nan,Poste,,PC,Nenhuma identificação realizada
+687,nan,nan,,,Nenhuma identificação realizada
+688,Postes,Palmeira,PC,P,Nenhuma identificação realizada
+689,Folhas arredondadas,Mangueira,N,Y,Árvore de outra espécie
+690,nan,Mangueira,,P,Árvore de outra espécie
+691,nan,Cajueiro,,P,Árvore de outra espécie
+692,nan,nan,,,Nenhuma identificação realizada
+693,Postes,Mangueira,PC,N,Mangueira
+694,nan,Palmeira,,N,Palmeira
+695,nan,nan,,,Nenhuma identificação realizada
+696,Postes,Mangueira,PC,y,Mangueira
+697,nan,Mangueira,,N,Árvore de outra espécie
+698,nan,Amendoeira,,N,Árvore de outra espécie
+699,nan,Palmeira,,Y,Palmeira
+700,nan,Palmeira,,Y,Palmeira
+701,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+702,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+703,nan,Amendoeira,,P,Árvore de outra espécie
+704,Postes,Mangueira,PC,Y,Mangueira
+705,Palmeira,Amendoeira,P,P,Palmeira
+706,nan,Mangueira,,P,Árvore de outra espécie
+707,Postes,Amendoeira,PC,P,Amendoeira
+708,Postes,Poste,PC,PC,Nenhuma identificação realizada
+709,nan,Palmeira,,Y,Palmeira
+710,nan,Palmeira,,PM,Palmeira
+711,nan,Mangueira,,N,Árvore de outra espécie
+712,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+713,nan,Mangueira,,N,Árvore de outra espécie
+714,nan,Poste,,PC,Nenhuma identificação realizada
+715,Outras,Mangueira,O,P,Árvore de outra espécie
+716,nan,Poste,,PC,Nenhuma identificação realizada
+717,nan,Poste,,PC,Nenhuma identificação realizada
+718,nan,Amendoeira,,N,Árvore de outra espécie
+719,Palmeira,Palmeira,Y,Y,Palmeira
+720,nan,Palmeira,,N,Palmeira
+721,nan,Mangueira,,N,Árvore de outra espécie
+722,nan,Amendoeira,,P,Árvore de outra espécie
+723,nan,nan,,,Nenhuma identificação realizada
+724,Folhas arredondadas,Poste,P,PC,Nenhuma identificação realizada
+725,nan,Amendoeira,,N,Árvore de outra espécie
+726,Postes,Poste,PC,PC,Nenhuma identificação realizada
+727,nan,nan,,,Nenhuma identificação realizada
+728,nan,Mangueira,,N,Árvore de outra espécie
+729,Folhas lineares,Amendoeira,Y,P,Árvore de outra espécie
+730,Folhas lineares,Amendoeira,Y,P,Árvore de outra espécie
+731,nan,Palmeira,,N,Palmeira
+732,Postes,Mangueira,PC,Y,Mangueira
+733,Folhas arredondadas,Mangueira,P,P,Árvore de outra espécie
+734,nan,Cajueiro,,N,Árvore de outra espécie
+735,Outras,Amendoeira,O,P,Árvore de outra espécie
+736,nan,Mangueira,,Y,Árvore de outra espécie
+737,nan,Mangueira,,N,Árvore de outra espécie
+738,nan,Poste,,PC,Nenhuma identificação realizada
+739,nan,Mangueira,,N,Árvore de outra espécie
+740,nan,Mangueira,,Y,Árvore de outra espécie
+741,nan,Cajueiro,,Y,Árvore de outra espécie
+742,nan,nan,,,Nenhuma identificação realizada
+743,Folhas arredondadas,Palmeira,P,PM,Nenhuma identificação realizada
+744,nan,Palmeira,,PM,Palmeira
+745,nan,Poste,,PC,Nenhuma identificação realizada
+746,nan,nan,,,Nenhuma identificação realizada
+747,nan,Palmeira,,M,Palmeira
+748,nan,Mangueira,,,Árvore de outra espécie
+749,nan,Mangueira,,Y,Árvore de outra espécie
+750,nan,Mangueira,,N,Árvore de outra espécie
+751,Folhas arredondadas,Mangueira,P,Y,Árvore de outra espécie
+752,Folhas arredondadas,Amendoeira,Y,P,Amendoeira
+753,Postes,Mangueira,PC,N,Mangueira
+754,nan,nan,,,Nenhuma identificação realizada
+755,Folhas arredondadas,Amendoeira,N,N,Amendoeira
+756,Postes,Mangueira,PC,N,Mangueira
+757,nan,Poste,,PC,Nenhuma identificação realizada
+758,nan,Poste,,PC,Nenhuma identificação realizada
+759,nan,Palmeira,,N,Palmeira
+760,nan,nan,,,Nenhuma identificação realizada
+761,nan,nan,,,Nenhuma identificação realizada
+762,nan,Poste,,PC,Nenhuma identificação realizada
+763,Folhas arredondadas,Palmeira,N,N,Nenhuma identificação realizada
+764,nan,Mangueira,,P,Árvore de outra espécie
+765,nan,Poste,,PC,Nenhuma identificação realizada
+766,nan,nan,,,Nenhuma identificação realizada
+767,Postes,Mangueira,PC,P,Mangueira
+768,nan,Palmeira,,N,Palmeira
+769,nan,Palmeira,,Y,Palmeira
+770,nan,nan,,,Nenhuma identificação realizada
+771,nan,Palmeira,,Y,Palmeira
+772,Outras,Amendoeira,O,P,Árvore de outra espécie
+773,nan,Mangueira,,N,Árvore de outra espécie
+774,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+775,nan,Palmeira,,Y,Palmeira
+776,nan,Mangueira,,P,Árvore de outra espécie
+777,Outras,Amendoeira,O,N,Árvore de outra espécie
+778,nan,Palmeira,,N,Palmeira
+779,Postes,Amendoeira,PC,P,Amendoeira
+780,nan,Mangueira,,P,Árvore de outra espécie
+781,Postes,Poste,PC,PC,Nenhuma identificação realizada
+782,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+783,Palmeira,Palmeira,Y,Y,Palmeira
+784,nan,Mangueira,,N,Árvore de outra espécie
+785,Postes,Mangueira,C,N,Mangueira
+786,nan,Poste,,PC,Nenhuma identificação realizada
+787,Outras,Palmeira,O,Y,Nenhuma identificação realizada
+788,nan,Mangueira,,P,Árvore de outra espécie
+789,Folhas arredondadas,Palmeira,N,N,Nenhuma identificação realizada
+790,Folhas arredondadas,Palmeira,N,PM,Nenhuma identificação realizada
+791,nan,Poste,,PC,Nenhuma identificação realizada
+792,nan,Mangueira,,N,Árvore de outra espécie
+793,nan,nan,,,Nenhuma identificação realizada
+794,nan,nan,,,Nenhuma identificação realizada
+795,nan,Poste,,PC,Nenhuma identificação realizada
+796,nan,nan,,,Nenhuma identificação realizada
+797,Palmeira,Palmeira,Y,Y,Palmeira
+798,Postes,Mangueira,PC,N,Mangueira
+799,nan,Palmeira,,Y,Palmeira
+800,nan,Palmeira,,PM,Palmeira
+801,nan,Mangueira,,N,Árvore de outra espécie
+802,Postes,Amendoeira,PC,Y,Amendoeira
+803,nan,Mangueira,,N,Árvore de outra espécie
+804,Outras,Palmeira,O,Y,Nenhuma identificação realizada
+805,nan,Palmeira,,PM,Palmeira
+806,nan,Mangueira,,P,Árvore de outra espécie
+807,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+808,Folhas arredondadas,Palmeira,N,PM,Nenhuma identificação realizada
+809,nan,Palmeira,,PM,Palmeira
+810,nan,Poste,,PC,Nenhuma identificação realizada
+811,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+812,Palmeira,Palmeira,Y,Y,Palmeira
+813,nan,Amendoeira,,P,Árvore de outra espécie
+814,Folhas arredondadas,Palmeira,N,N,Nenhuma identificação realizada
+815,Folhas lineares,Palmeira,Y,N,Nenhuma identificação realizada
+816,nan,Palmeira,,Y,Palmeira
+817,nan,Amendoeira,,P,Árvore de outra espécie
+818,nan,Palmeira,,PM,Palmeira
+819,nan,Mangueira,,Y,Árvore de outra espécie
+820,nan,Poste,,PC,Nenhuma identificação realizada
+821,nan,Amendoeira,,P,Árvore de outra espécie
+822,Folhas arredondadas,Palmeira,N,N,Nenhuma identificação realizada
+823,Postes,Mangueira,PC,Y,Mangueira
+824,nan,nan,,,Nenhuma identificação realizada
+825,nan,Mangueira,,P,Árvore de outra espécie
+826,nan,Mangueira,,P,Árvore de outra espécie
+827,nan,Mangueira,,P,Árvore de outra espécie
+828,Postes,Mangueira,PC,Y,Mangueira
+829,nan,Poste,,PC,Nenhuma identificação realizada
+830,Postes,Mangueira,PC,P,Mangueira
+831,nan,Poste,,PC,Nenhuma identificação realizada
+832,Postes,Poste,PC,PC,Nenhuma identificação realizada
+833,nan,Palmeira,,Y,Palmeira
+834,Palmeira,Palmeira,Y,Y,Palmeira
+835,Folhas lineares,Palmeira,Y,N,Nenhuma identificação realizada
+836,Postes,Poste,PC,PC,Nenhuma identificação realizada
+837,Postes,Mangueira,PC,N,Mangueira
+838,nan,Poste,,PC,Nenhuma identificação realizada
+839,nan,Mangueira,,N,Árvore de outra espécie
+840,Folhas lineares,Mangueira,P,N,Mangueira
+841,nan,Palmeira,,PM,Palmeira
+842,nan,Amendoeira,,N,Árvore de outra espécie
+843,Folhas arredondadas,Mangueira,P,P,Árvore de outra espécie
+844,nan,Palmeira,,Y,Palmeira
+845,Folhas arredondadas,Palmeira,P,N,Nenhuma identificação realizada
+846,nan,Palmeira,,N,Palmeira
+847,nan,nan,,,Nenhuma identificação realizada
+848,nan,nan,,,Nenhuma identificação realizada
+849,Palmeira,Palmeira,Y,Y,Palmeira
+850,nan,Palmeira,,N,Palmeira
+851,nan,Palmeira,,N,Palmeira
+852,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+853,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+854,nan,Mangueira,,N,Árvore de outra espécie
+855,nan,Poste,,PC,Nenhuma identificação realizada
+856,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+857,Postes,Amendoeira,PC,N,Amendoeira
+858,nan,nan,,,Nenhuma identificação realizada
+859,nan,nan,,,Nenhuma identificação realizada
+860,nan,nan,,,Nenhuma identificação realizada
+861,nan,Amendoeira,,N,Árvore de outra espécie
+862,nan,Poste,,PC,Nenhuma identificação realizada
+863,Outras,Palmeira,O,PM,Nenhuma identificação realizada
+864,nan,Mangueira,,N,Árvore de outra espécie
+865,nan,Poste,,PC,Nenhuma identificação realizada
+866,nan,Palmeira,,P,Palmeira
+867,nan,Amendoeira,,P,Árvore de outra espécie
+868,Outras,Mangueira,O,N,Árvore de outra espécie
+869,Postes,Mangueira,PC,N,Mangueira
+870,Outras,Cajueiro,O,N,Árvore de outra espécie
+871,nan,Poste,,PC,Nenhuma identificação realizada
+872,nan,nan,,,Nenhuma identificação realizada
+873,nan,Amendoeira,,N,Árvore de outra espécie
+874,nan,Mangueira,,N,Árvore de outra espécie
+875,nan,Poste,,PC,Nenhuma identificação realizada
+876,nan,Amendoeira,,P,Árvore de outra espécie
+877,nan,Mangueira,,P,Árvore de outra espécie
+878,nan,Mangueira,,N,Árvore de outra espécie
+879,nan,Mangueira,,Y,Árvore de outra espécie
+880,nan,Amendoeira,,N,Árvore de outra espécie
+881,Folhas arredondadas,Palmeira,P,Y,Nenhuma identificação realizada
+882,Palmeira,Poste,N,PC,Palmeira
+883,Postes,Amendoeira,PC,P,Amendoeira
+884,Folhas arredondadas,Mangueira,Y,P,Árvore de outra espécie
+885,nan,Mangueira,,N,Árvore de outra espécie
+886,nan,Palmeira,,PM,Palmeira
+887,nan,Cajueiro,,P,Árvore de outra espécie
+888,nan,Palmeira,,N,Palmeira
+889,nan,Mangueira,,N,Árvore de outra espécie
+890,nan,nan,,,Nenhuma identificação realizada
+891,nan,Mangueira,,N,Árvore de outra espécie
+892,Postes,Poste,PC,PC,Nenhuma identificação realizada
+893,Postes,Mangueira,PC,N,Mangueira
+894,Postes,Poste,PC,PC,Nenhuma identificação realizada
+895,nan,nan,,,Nenhuma identificação realizada
+896,nan,Palmeira,,N,Palmeira
+897,nan,Poste,,PC,Nenhuma identificação realizada
+898,nan,Amendoeira,,N,Árvore de outra espécie
+899,Palmeira,Palmeira,Y,Y,Palmeira
+900,nan,Palmeira,,N,Palmeira
+901,nan,Palmeira,,N,Palmeira
+902,nan,Poste,,PC,Nenhuma identificação realizada
+903,nan,Poste,,PC,Nenhuma identificação realizada
+904,nan,Poste,,PC,Nenhuma identificação realizada
+905,Postes,Mangueira,PC,Y,Mangueira
+906,Folhas arredondadas,Mangueira,P,Y,Árvore de outra espécie
+907,nan,Poste,,PC,Nenhuma identificação realizada
+908,nan,Amendoeira,,P,Árvore de outra espécie
+909,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+910,nan,nan,,,Nenhuma identificação realizada
+911,nan,nan,,,Nenhuma identificação realizada
+912,Postes,Amendoeira,PC,P,Amendoeira
+913,nan,Palmeira,,N,Palmeira
+914,nan,nan,,,Nenhuma identificação realizada
+915,Folhas arredondadas,Mangueira,P,P,Árvore de outra espécie
+916,nan,Palmeira,,N,Palmeira
+917,Postes,Mangueira,PC,Y,Mangueira
+918,Postes,Cajueiro,PC,P,Cajueiro
+919,nan,nan,,,Nenhuma identificação realizada
+920,nan,Amendoeira,,N,Árvore de outra espécie
+921,nan,Amendoeira,,N,Árvore de outra espécie
+922,nan,Poste,,PC,Nenhuma identificação realizada
+923,nan,Palmeira,,N,Palmeira
+924,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+925,nan,nan,,,Nenhuma identificação realizada
+926,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+927,Postes,Amendoeira,PC,N,Amendoeira
+928,nan,Palmeira,,N,Palmeira
+929,nan,Poste,,PC,Nenhuma identificação realizada
+930,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+931,nan,Mangueira,,N,Árvore de outra espécie
+932,nan,Amendoeira,,P,Árvore de outra espécie
+933,nan,Poste,,PC,Nenhuma identificação realizada
+934,Postes,Mangueira,PC,N,Mangueira
+935,nan,nan,,,Nenhuma identificação realizada
+936,nan,Palmeira,,N,Palmeira
+937,Postes,Palmeira,PC,P,Nenhuma identificação realizada
+938,nan,nan,,,Nenhuma identificação realizada
+939,nan,Poste,,PC,Nenhuma identificação realizada
+940,nan,Palmeira,,N,Palmeira
+941,Folhas arredondadas,Palmeira,P,N,Nenhuma identificação realizada
+942,nan,Mangueira,,N,Árvore de outra espécie
+943,Outras,Palmeira,PC,Y,Nenhuma identificação realizada
+944,Folhas lineares,Mangueira,Y,Y,Mangueira
+945,nan,Poste,,PC,Nenhuma identificação realizada
+946,nan,Palmeira,,N,Palmeira
+947,nan,Palmeira,,N,Palmeira
+948,Folhas lineares,Palmeira,N,N,Nenhuma identificação realizada
+949,Folhas arredondadas,Amendoeira,Y,P,Amendoeira
+950,nan,Palmeira,,PM,Palmeira
+951,nan,Poste,,PC,Nenhuma identificação realizada
+952,nan,Palmeira,,PM,Palmeira
+953,nan,Mangueira,,P,Árvore de outra espécie
+954,nan,Poste,,PC,Nenhuma identificação realizada
+955,nan,nan,,,Nenhuma identificação realizada
+956,nan,Amendoeira,,N,Árvore de outra espécie
+957,Folhas arredondadas,Palmeira,Y,N,Nenhuma identificação realizada
+958,nan,Mangueira,,P,Árvore de outra espécie
+959,nan,Palmeira,,N,Palmeira
+960,nan,Amendoeira,,P,Árvore de outra espécie
+961,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+962,Folhas arredondadas,Palmeira,P,N,Nenhuma identificação realizada
+963,Palmeira,Mangueira,Y,N,Palmeira
+964,nan,Mangueira,,P,Árvore de outra espécie
+965,nan,Palmeira,,N,Palmeira
+966,Folhas arredondadas,Mangueira,Y,N,Árvore de outra espécie
+967,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+968,nan,Amendoeira,,P,Árvore de outra espécie
+969,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+970,nan,Poste,,PC,Nenhuma identificação realizada
+971,nan,Mangueira,,P,Árvore de outra espécie
+972,nan,Palmeira,,N,Palmeira
+973,nan,Mangueira,,N,Árvore de outra espécie
+974,nan,Mangueira,,N,Árvore de outra espécie
+975,Postes,Poste,PC,PC,Nenhuma identificação realizada
+976,nan,Amendoeira,,Y,Árvore de outra espécie
+977,nan,Amendoeira,,P,Árvore de outra espécie
+978,nan,Mangueira,,P,Árvore de outra espécie
+979,nan,Mangueira,,P,Árvore de outra espécie
+980,nan,Mangueira,,P,Árvore de outra espécie
+981,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+982,nan,Mangueira,,N,Árvore de outra espécie
+983,nan,Poste,,PC,Nenhuma identificação realizada
+984,nan,nan,,,Nenhuma identificação realizada
+985,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+986,nan,Palmeira,,Y,Palmeira
+987,Outras,Mangueira,O,Y,Árvore de outra espécie
+988,nan,Palmeira,,N,Palmeira
+989,Postes,Palmeira,P,PM,Nenhuma identificação realizada
+990,Folhas arredondadas,Mangueira,P,Y,Árvore de outra espécie
+991,nan,Palmeira,,PM,Palmeira
+992,Folhas lineares,Palmeira,Y,N,Nenhuma identificação realizada
+993,Folhas arredondadas,Poste,P,PC,Nenhuma identificação realizada
+994,Postes,Mangueira,PC,P,Mangueira
+995,nan,Poste,,PC,Nenhuma identificação realizada
+996,nan,Mangueira,,N,Árvore de outra espécie
+997,nan,Mangueira,,N,Árvore de outra espécie
+998,Palmeira,Amendoeira,Y,N,Palmeira
+999,Folhas arredondadas,Mangueira,N,P,Árvore de outra espécie
+1000,Postes,Cajueiro,PC,N,Cajueiro
+1001,nan,Mangueira,,N,Árvore de outra espécie
+1002,Postes,Mangueira,PC,N,Mangueira
+1003,nan,Mangueira,,N,Árvore de outra espécie
+1004,nan,Mangueira,,N,Árvore de outra espécie
+1005,nan,Mangueira,,P,Árvore de outra espécie
+1006,nan,Mangueira,,P,Árvore de outra espécie
+1007,nan,Poste,,PC,Nenhuma identificação realizada
+1008,nan,Cajueiro,,N,Árvore de outra espécie
+1009,nan,Amendoeira,,N,Árvore de outra espécie
+1010,Folhas arredondadas,Amendoeira,Y,P,Amendoeira
+1011,nan,Amendoeira,,Y,Árvore de outra espécie
+1012,nan,Palmeira,,Y,Palmeira
+1013,nan,Poste,,Pc,Nenhuma identificação realizada
+1014,nan,Palmeira,,Y,Palmeira
+1015,Palmeira,Palmeira,Y,Y,Palmeira
+1016,Folhas arredondadas,Amendoeira,Y,P,Amendoeira
+1017,nan,Mangueira,,P,Árvore de outra espécie
+1018,nan,Cajueiro,,P,Árvore de outra espécie
+1019,nan,Mangueira,,Y,Árvore de outra espécie
+1020,Postes,Mangueira,PC,N,Mangueira
+1021,nan,nan,,,Nenhuma identificação realizada
+1022,Folhas lineares,Mangueira,Y,P,Mangueira
+1023,nan,Palmeira,,Y,Palmeira
+1024,nan,Palmeira,,PM,Palmeira
+1025,Palmeira,Palmeira,Y,Y,Palmeira
+1026,nan,nan,,,Nenhuma identificação realizada
+1027,nan,Mangueira,,P,Árvore de outra espécie
+1028,nan,Amendoeira,,P,Árvore de outra espécie
+1029,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+1030,nan,Mangueira,,N,Árvore de outra espécie
+1031,nan,Mangueira,,N,Árvore de outra espécie
+1032,nan,Mangueira,,Y,Árvore de outra espécie
+1033,Outras,Mangueira,O,N,Árvore de outra espécie
+1034,Postes,Mangueira,PC,N,Mangueira
+1035,nan,Mangueira,,N,Árvore de outra espécie
+1036,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1037,Postes,Amendoeira,PC,N,Amendoeira
+1038,Outras,Amendoeira,O,P,Árvore de outra espécie
+1039,nan,Poste,,PC,Nenhuma identificação realizada
+1040,Folhas arredondadas,Amendoeira,Y,p,Amendoeira
+1041,nan,Cajueiro,,N,Árvore de outra espécie
+1042,nan,Palmeira,,N,Palmeira
+1043,Folhas lineares,Palmeira,Y,Pm,Nenhuma identificação realizada
+1044,Outras,Mangueira,O,Y,Árvore de outra espécie
+1045,nan,Palmeira,,N,Palmeira
+1046,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+1047,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+1048,nan,Poste,,PC,Nenhuma identificação realizada
+1049,Postes,Mangueira,PC,Y,Mangueira
+1050,Folhas arredondadas,Amendoeira,Y,Y,Amendoeira
+1051,nan,Mangueira,,N,Árvore de outra espécie
+1052,nan,Palmeira,,N,Palmeira
+1053,nan,Palmeira,,N,Palmeira
+1054,nan,Mangueira,,N,Árvore de outra espécie
+1055,nan,Mangueira,,P,Árvore de outra espécie
+1056,nan,Palmeira,,P,Palmeira
+1057,nan,Palmeira,,N,Palmeira
+1058,nan,Poste,,PC,Nenhuma identificação realizada
+1059,Postes,Mangueira,PC,N,Mangueira
+1060,Folhas lineares,Mangueira,Y,N,Mangueira
+1061,nan,Palmeira,,N,Palmeira
+1062,nan,nan,,,Nenhuma identificação realizada
+1063,nan,Palmeira,,Y,Palmeira
+1064,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+1065,Postes,Mangueira,PC,P,Mangueira
+1066,Postes,Mangueira,PC,P,Mangueira
+1067,nan,nan,,,Nenhuma identificação realizada
+1068,nan,Palmeira,,Y,Palmeira
+1069,nan,Mangueira,,Y,Árvore de outra espécie
+1070,nan,Palmeira,,N,Palmeira
+1071,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+1072,nan,Poste,,PC,Nenhuma identificação realizada
+1073,nan,Palmeira,,Y,Palmeira
+1074,nan,Palmeira,,PM,Palmeira
+1075,nan,Amendoeira,,P,Árvore de outra espécie
+1076,nan,Cajueiro,,N,Árvore de outra espécie
+1077,Folhas arredondadas,Amendoeira,Y,Y,Amendoeira
+1078,nan,Amendoeira,,P,Árvore de outra espécie
+1079,nan,Palmeira,,Y,Palmeira
+1080,Folhas arredondadas,Mangueira,P,Y,Árvore de outra espécie
+1081,Postes,Mangueira,PC,P,Mangueira
+1082,nan,Palmeira,,PM,Palmeira
+1083,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1084,Postes,Mangueira,PC,N,Mangueira
+1085,nan,Amendoeira,,N,Árvore de outra espécie
+1086,nan,Mangueira,,N,Árvore de outra espécie
+1087,nan,nan,,,Nenhuma identificação realizada
+1088,Postes,Mangueira,PC,N,Mangueira
+1089,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+1090,Folhas lineares,Palmeira,N,N,Nenhuma identificação realizada
+1091,nan,Mangueira,,P,Árvore de outra espécie
+1092,nan,Mangueira,,N,Árvore de outra espécie
+1093,nan,Poste,,PC,Nenhuma identificação realizada
+1094,nan,nan,,,Nenhuma identificação realizada
+1095,nan,Mangueira,,N,Árvore de outra espécie
+1096,nan,Palmeira,,N,Palmeira
+1097,nan,Mangueira,,N,Árvore de outra espécie
+1098,Folhas lineares,Cajueiro,Y,P,Árvore de outra espécie
+1099,nan,Mangueira,,Y,Árvore de outra espécie
+1100,nan,Poste,,PC,Nenhuma identificação realizada
+1101,nan,Amendoeira,,N,Árvore de outra espécie
+1102,nan,Mangueira,,N,Árvore de outra espécie
+1103,nan,Mangueira,,P,Árvore de outra espécie
+1104,Outras,Mangueira,O,N,Árvore de outra espécie
+1105,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+1106,nan,nan,,,Nenhuma identificação realizada
+1107,nan,Amendoeira,,P,Árvore de outra espécie
+1108,nan,Palmeira,,N,Palmeira
+1109,nan,Amendoeira,,N,Árvore de outra espécie
+1110,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+1111,nan,nan,,,Nenhuma identificação realizada
+1112,nan,Poste,,PC,Nenhuma identificação realizada
+1113,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1114,nan,Mangueira,,N,Árvore de outra espécie
+1115,nan,Palmeira,,N,Palmeira
+1116,Folhas lineares,Mangueira,P,N,Mangueira
+1117,nan,Palmeira,,PM,Palmeira
+1118,nan,Mangueira,,N,Árvore de outra espécie
+1119,nan,Mangueira,,N,Árvore de outra espécie
+1120,nan,Palmeira,,PM,Palmeira
+1121,Palmeira,Palmeira,Y,Y,Palmeira
+1122,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+1123,Postes,Mangueira,PC,Y,Mangueira
+1124,nan,Amendoeira,,P,Árvore de outra espécie
+1125,nan,nan,,,Nenhuma identificação realizada
+1126,nan,Palmeira,,N,Palmeira
+1127,nan,Mangueira,,P,Árvore de outra espécie
+1128,nan,Palmeira,,N,Palmeira
+1129,nan,Poste,,PC,Nenhuma identificação realizada
+1130,Folhas arredondadas,Poste,N,PC,Nenhuma identificação realizada
+1131,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1132,Postes,Amendoeira,PC,N,Amendoeira
+1133,Palmeira,Palmeira,Y,Y,Palmeira
+1134,Outras,Amendoeira,O,Y,Árvore de outra espécie
+1135,Postes,Mangueira,PC,P,Mangueira
+1136,Postes,Mangueira,PC,P,Mangueira
+1137,nan,Palmeira,,N,Palmeira
+1138,Postes,Mangueira,PC,N,Mangueira
+1139,nan,Mangueira,,P,Árvore de outra espécie
+1140,nan,Palmeira,,N,Palmeira
+1141,nan,Amendoeira,,N,Árvore de outra espécie
+1142,Folhas arredondadas,Amendoeira,Y,P,Amendoeira
+1143,nan,Mangueira,,N,Árvore de outra espécie
+1144,Postes,Mangueira,PC,P,Mangueira
+1145,Postes,Mangueira,PC,P,Mangueira
+1146,nan,Poste,,PC,Nenhuma identificação realizada
+1147,nan,Poste,,PC,Nenhuma identificação realizada
+1148,nan,Palmeira,,PM,Palmeira
+1149,nan,Palmeira,,N,Palmeira
+1150,nan,Palmeira,,Pm,Palmeira
+1151,Postes,Amendoeira,PC,P,Amendoeira
+1152,Folhas arredondadas,Mangueira,P,P,Árvore de outra espécie
+1153,nan,Amendoeira,,N,Árvore de outra espécie
+1154,nan,Palmeira,,Y,Palmeira
+1155,nan,Palmeira,,Y,Palmeira
+1156,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+1157,nan,Amendoeira,,P,Árvore de outra espécie
+1158,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+1159,Palmeira,Palmeira,Y,Y,Palmeira
+1160,nan,Poste,,PC,Nenhuma identificação realizada
+1161,Outras,Mangueira,O,N,Árvore de outra espécie
+1162,nan,Mangueira,,Nf,Árvore de outra espécie
+1163,nan,Mangueira,,N,Árvore de outra espécie
+1164,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+1165,nan,Mangueira,,N,Árvore de outra espécie
+1166,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+1167,Postes,Amendoeira,PC,P,Amendoeira
+1168,Postes,Mangueira,PC,P,Mangueira
+1169,nan,Poste,,PC,Nenhuma identificação realizada
+1170,Folhas lineares,Amendoeira,Y,P,Árvore de outra espécie
+1171,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+1172,nan,Palmeira,,N,Palmeira
+1173,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1174,nan,nan,,,Nenhuma identificação realizada
+1175,nan,Mangueira,,P,Árvore de outra espécie
+1176,Palmeira,Palmeira,Y,Y,Palmeira
+1177,Folhas arredondadas,Amendoeira,Y,Y,Amendoeira
+1178,nan,Poste,,PC,Nenhuma identificação realizada
+1179,nan,Mangueira,,P,Árvore de outra espécie
+1180,nan,Mangueira,,P,Árvore de outra espécie
+1181,Outras,nan,O,,Nenhuma identificação realizada
+1182,nan,Palmeira,,N,Palmeira
+1183,Folhas arredondadas,Mangueira,P,P,Árvore de outra espécie
+1184,nan,Poste,,PC,Nenhuma identificação realizada
+1185,Outras,Amendoeira,O,,Árvore de outra espécie
+1186,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+1187,Folhas arredondadas,Mangueira,P,N,Árvore de outra espécie
+1188,nan,nan,,,Nenhuma identificação realizada
+1189,nan,Poste,,PC,Nenhuma identificação realizada
+1190,nan,Poste,,PC,Nenhuma identificação realizada
+1191,nan,Poste,,PC,Nenhuma identificação realizada
+1192,nan,Palmeira,,Y,Palmeira
+1193,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+1194,nan,Mangueira,,N,Árvore de outra espécie
+1195,nan,nan,,,Nenhuma identificação realizada
+1196,Postes,Mangueira,PC,P,Mangueira
+1197,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+1198,nan,Poste,,PC,Nenhuma identificação realizada
+1199,nan,Poste,,PC,Nenhuma identificação realizada
+1200,nan,Mangueira,,Y,Árvore de outra espécie
+1201,nan,Amendoeira,,N,Árvore de outra espécie
+1202,nan,Palmeira,,N,Palmeira
+1203,Palmeira,Palmeira,Y,Y,Palmeira
+1204,nan,Palmeira,,Y,Palmeira
+1205,nan,Palmeira,,Y,Palmeira
+1206,Postes,Mangueira,PC,N,Mangueira
+1207,nan,Poste,,PC,Nenhuma identificação realizada
+1208,nan,Mangueira,,N,Árvore de outra espécie
+1209,Postes,Mangueira,PC,N,Mangueira
+1210,Postes,Mangueira,PC,N,Mangueira
+1211,nan,Palmeira,,N,Palmeira
+1212,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1213,nan,nan,,,Nenhuma identificação realizada
+1214,nan,Palmeira,,N,Palmeira
+1215,nan,Palmeira,,Y,Palmeira
+1216,nan,nan,,,Nenhuma identificação realizada
+1217,nan,Poste,,PC,Nenhuma identificação realizada
+1218,Palmeira,Palmeira,Y,Y,Palmeira
+1219,nan,Poste,,PC,Nenhuma identificação realizada
+1220,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+1221,nan,Amendoeira,,P,Árvore de outra espécie
+1222,Postes,Mangueira,PC,N,Mangueira
+1223,nan,Poste,,PC,Nenhuma identificação realizada
+1224,nan,Poste,,PC,Nenhuma identificação realizada
+1225,nan,Palmeira,,PM,Palmeira
+1226,Folhas arredondadas,Amendoeira,Y,P,Amendoeira
+1227,Folhas arredondadas,Poste,P,PC,Nenhuma identificação realizada
+1228,Palmeira,Palmeira,Y,Y,Palmeira
+1229,Folhas arredondadas,Poste,N,PC,Nenhuma identificação realizada
+1230,Folhas arredondadas,Mangueira,P,N,Árvore de outra espécie
+1231,nan,Poste,,PC,Nenhuma identificação realizada
+1232,nan,Palmeira,,PM,Palmeira
+1233,Folhas lineares,Amendoeira,Y,P,Árvore de outra espécie
+1234,nan,Poste,,PC,Nenhuma identificação realizada
+1235,nan,Poste,,PC,Nenhuma identificação realizada
+1236,nan,Amendoeira,,P,Árvore de outra espécie
+1237,nan,Palmeira,,PM,Palmeira
+1238,nan,Poste,,PC,Nenhuma identificação realizada
+1239,Folhas arredondadas,Mangueira,N,N,Árvore de outra espécie
+1240,Folhas arredondadas,Poste,P,PC,Nenhuma identificação realizada
+1241,nan,Mangueira,,N,Árvore de outra espécie
+1242,nan,Poste,,PC,Nenhuma identificação realizada
+1243,nan,nan,,,Nenhuma identificação realizada
+1244,Palmeira,Mangueira,Y,P,Palmeira
+1245,Postes,Amendoeira,PC,P,Amendoeira
+1246,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+1247,nan,Palmeira,,Y,Palmeira
+1248,Postes,Mangueira,PC,Y,Mangueira
+1249,Palmeira,Palmeira,Y,Y,Palmeira
+1250,nan,Palmeira,,Y,Palmeira
+1251,nan,nan,,,Nenhuma identificação realizada
+1252,nan,Mangueira,,Y,Árvore de outra espécie
+1253,nan,Poste,,PC,Nenhuma identificação realizada
+1254,nan,nan,,,Nenhuma identificação realizada
+1255,nan,Palmeira,,Y,Palmeira
+1256,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+1257,nan,Palmeira,,N,Palmeira
+1258,Folhas lineares,Palmeira,Y,N,Nenhuma identificação realizada
+1259,nan,Palmeira,,N,Palmeira
+1260,nan,Mangueira,,N,Árvore de outra espécie
+1261,Folhas arredondadas,Mangueira,Y,P,Árvore de outra espécie
+1262,nan,nan,,,Nenhuma identificação realizada
+1263,nan,Palmeira,,N,Palmeira
+1264,nan,Poste,,PC,Nenhuma identificação realizada
+1265,nan,Palmeira,,N,Palmeira
+1266,nan,Palmeira,,PM,Palmeira
+1267,nan,nan,,,Nenhuma identificação realizada
+1268,Palmeira,Palmeira,Y,Y,Palmeira
+1269,nan,Palmeira,,P,Palmeira
+1270,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+1271,nan,nan,,,Nenhuma identificação realizada
+1272,nan,nan,,,Nenhuma identificação realizada
+1273,nan,Palmeira,,N,Palmeira
+1274,Postes,Mangueira,PC,P,Mangueira
+1275,nan,Palmeira,,PM,Palmeira
+1276,nan,Amendoeira,,N,Árvore de outra espécie
+1277,nan,Palmeira,,N,Palmeira
+1278,nan,Palmeira,,PM,Palmeira
+1279,Postes,Mangueira,PC,Y,Mangueira
+1280,nan,Mangueira,,Y,Árvore de outra espécie
+1281,nan,Palmeira,,N,Palmeira
+1282,Postes,Amendoeira,PC,N,Amendoeira
+1283,Folhas arredondadas,Cajueiro,P,N,Cajueiro
+1284,nan,Amendoeira,,N,Árvore de outra espécie
+1285,nan,nan,,,Nenhuma identificação realizada
+1286,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+1287,nan,nan,,,Nenhuma identificação realizada
+1288,Postes,Amendoeira,PC,N,Amendoeira
+1289,Folhas arredondadas,Poste,P,PC,Nenhuma identificação realizada
+1290,nan,Mangueira,,P,Árvore de outra espécie
+1291,nan,Mangueira,,N,Árvore de outra espécie
+1292,nan,Palmeira,,N,Palmeira
+1293,Folhas arredondadas,Palmeira,P,Y,Nenhuma identificação realizada
+1294,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+1295,nan,Amendoeira,,Y,Árvore de outra espécie
+1296,nan,Poste,,PC,Nenhuma identificação realizada
+1297,nan,Palmeira,,Y,Palmeira
+1298,Folhas lineares,Mangueira,Y,P,Mangueira
+1299,nan,Amendoeira,,N,Árvore de outra espécie
+1300,Postes,Mangueira,PC,P,Mangueira
+1301,nan,nan,,,Nenhuma identificação realizada
+1302,nan,Amendoeira,,P,Árvore de outra espécie
+1303,nan,Palmeira,,Y,Palmeira
+1304,nan,Poste,,PC,Nenhuma identificação realizada
+1305,nan,Amendoeira,,Y,Árvore de outra espécie
+1306,Postes,Mangueira,PC,Y,Mangueira
+1307,Palmeira,Palmeira,Y,Y,Palmeira
+1308,nan,Palmeira,,Y,Palmeira
+1309,nan,Palmeira,,Y,Palmeira
+1310,nan,Poste,,PC,Nenhuma identificação realizada
+1311,nan,Poste,,PC,Nenhuma identificação realizada
+1312,Palmeira,Palmeira,Y,Y,Palmeira
+1313,nan,nan,,,Nenhuma identificação realizada
+1314,nan,Mangueira,,P,Árvore de outra espécie
+1315,Postes,Amendoeira,PC,N,Amendoeira
+1316,nan,nan,,,Nenhuma identificação realizada
+1317,nan,Poste,,PC,Nenhuma identificação realizada
+1318,nan,Poste,,PC,Nenhuma identificação realizada
+1319,nan,Palmeira,,N,Palmeira
+1320,nan,Mangueira,,P,Árvore de outra espécie
+1321,nan,nan,,,Nenhuma identificação realizada
+1322,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+1323,Postes,Mangueira,PC,P,Mangueira
+1324,nan,Amendoeira,,N,Árvore de outra espécie
+1325,Folhas arredondadas,Mangueira,P,P,Árvore de outra espécie
+1326,nan,nan,,,Nenhuma identificação realizada
+1327,nan,Palmeira,,PM,Palmeira
+1328,Folhas arredondadas,Palmeira,P,N,Nenhuma identificação realizada
+1329,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1330,nan,Mangueira,,N,Árvore de outra espécie
+1331,nan,nan,,,Nenhuma identificação realizada
+1332,nan,Poste,,PC,Nenhuma identificação realizada
+1333,Postes,Mangueira,PC,N,Mangueira
+1334,nan,Palmeira,,N,Palmeira
+1335,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1336,Folhas arredondadas,Palmeira,P,Y,Nenhuma identificação realizada
+1337,Folhas arredondadas,Palmeira,P,PM,Nenhuma identificação realizada
+1338,Folhas arredondadas,Mangueira,P,P,Árvore de outra espécie
+1339,nan,nan,,,Nenhuma identificação realizada
+1340,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1341,nan,Amendoeira,,P,Árvore de outra espécie
+1342,nan,Palmeira,,Pm,Palmeira
+1343,nan,Amendoeira,,P,Árvore de outra espécie
+1344,Folhas arredondadas,Amendoeira,N,P,Amendoeira
+1345,nan,nan,,,Nenhuma identificação realizada
+1346,nan,Poste,,PC,Nenhuma identificação realizada
+1347,nan,Mangueira,,P,Árvore de outra espécie
+1348,nan,Mangueira,,P,Árvore de outra espécie
+1349,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+1350,nan,Palmeira,,PM,Palmeira
+1351,Postes,Cajueiro,PC,P,Cajueiro
+1352,nan,Cajueiro,,P,Árvore de outra espécie
+1353,Folhas lineares,Palmeira,Y,N,Nenhuma identificação realizada
+1354,Postes,Mangueira,PC,N,Mangueira
+1355,nan,Cajueiro,,N,Árvore de outra espécie
+1356,nan,nan,,,Nenhuma identificação realizada
+1357,Postes,Amendoeira,PC,P,Amendoeira
+1358,nan,nan,,,Nenhuma identificação realizada
+1359,nan,Palmeira,,N,Palmeira
+1360,nan,nan,,,Nenhuma identificação realizada
+1361,Postes,Mangueira,PC,N,Mangueira
+1362,Outras,Palmeira,O,N,Nenhuma identificação realizada
+1363,Folhas arredondadas,Mangueira,N,N,Árvore de outra espécie
+1364,nan,Palmeira,,N,Palmeira
+1365,Postes,Mangueira,PC,N,Mangueira
+1366,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+1367,nan,Mangueira,,N,Árvore de outra espécie
+1368,nan,Amendoeira,,Y,Árvore de outra espécie
+1369,nan,Mangueira,,P,Árvore de outra espécie
+1370,nan,Palmeira,,N,Palmeira
+1371,nan,Palmeira,,PM,Palmeira
+1372,nan,Palmeira,,Y,Palmeira
+1373,nan,Cajueiro,,N,Árvore de outra espécie
+1374,nan,Palmeira,,N,Palmeira
+1375,nan,Palmeira,,N,Palmeira
+1376,Outras,Palmeira,O,N,Nenhuma identificação realizada
+1377,nan,Mangueira,,P,Árvore de outra espécie
+1378,nan,Mangueira,,P,Árvore de outra espécie
+1379,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+1380,Outras,Cajueiro,O,P,Árvore de outra espécie
+1381,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+1382,Folhas arredondadas,Cajueiro,T,P,Cajueiro
+1383,Folhas arredondadas,Mangueira,Y,P,Árvore de outra espécie
+1384,Postes,Mangueira,PC,N,Mangueira
+1385,Outras,Cajueiro,O,P,Árvore de outra espécie
+1386,Folhas arredondadas,Palmeira,P,N,Nenhuma identificação realizada
+1387,nan,Palmeira,,N,Palmeira
+1388,Outras,Mangueira,O,N,Árvore de outra espécie
+1389,nan,Palmeira,,PM,Palmeira
+1390,nan,Amendoeira,,y,Árvore de outra espécie
+1391,nan,Mangueira,,P,Árvore de outra espécie
+1392,Folhas lineares,Poste,Y,PC,Nenhuma identificação realizada
+1393,nan,Amendoeira,,P,Árvore de outra espécie
+1394,nan,Palmeira,,N,Palmeira
+1395,Folhas arredondadas,Amendoeira,N,P,Amendoeira
+1396,nan,nan,,,Nenhuma identificação realizada
+1397,nan,nan,,,Nenhuma identificação realizada
+1398,Postes,Amendoeira,PC,P,Amendoeira
+1399,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+1400,Folhas lineares,Mangueira,Y,Y,Mangueira
+1401,Folhas arredondadas,Amendoeira,Y,Y,Amendoeira
+1402,Folhas arredondadas,Amendoeira,Y,N,Amendoeira
+1403,nan,nan,,,Nenhuma identificação realizada
+1404,Postes,Mangueira,PC,N,Mangueira
+1405,nan,Poste,,PC,Nenhuma identificação realizada
+1406,Folhas arredondadas,Mangueira,P,P,Árvore de outra espécie
+1407,nan,Palmeira,,PM,Palmeira
+1408,Folhas arredondadas,Amendoeira,Y,P,Amendoeira
+1409,nan,Palmeira,,n,Palmeira
+1410,nan,Poste,,PC,Nenhuma identificação realizada
+1411,nan,Poste,,PC,Nenhuma identificação realizada
+1412,nan,Poste,,PC,Nenhuma identificação realizada
+1413,nan,Palmeira,,N,Palmeira
+1414,Folhas arredondadas,Mangueira,Y,Y,Árvore de outra espécie
+1415,Postes,Mangueira,PC,N,Mangueira
+1416,Postes,Mangueira,PC,P,Mangueira
+1417,nan,Amendoeira,,P,Árvore de outra espécie
+1418,nan,Poste,,PC,Nenhuma identificação realizada
+1419,nan,Poste,,PC,Nenhuma identificação realizada
+1420,nan,Palmeira,,Y,Palmeira
+1421,Palmeira,Mangueira,Y,N,Palmeira
+1422,Postes,Amendoeira,PC,P,Amendoeira
+1423,nan,Mangueira,,N,Árvore de outra espécie
+1424,nan,Poste,,PC,Nenhuma identificação realizada
+1425,nan,nan,,,Nenhuma identificação realizada
+1426,nan,nan,,,Nenhuma identificação realizada
+1427,nan,Palmeira,,P,Palmeira
+1428,nan,Palmeira,,PM,Palmeira
+1429,nan,nan,,,Nenhuma identificação realizada
+1430,Folhas arredondadas,Cajueiro,P,P,Cajueiro
+1431,Palmeira,Palmeira,Y,Y,Palmeira
+1432,nan,Palmeira,,Y,Palmeira
+1433,nan,Amendoeira,,P,Árvore de outra espécie
+1434,Palmeira,Palmeira,Y,Y,Palmeira
+1435,nan,Amendoeira,,N,Árvore de outra espécie
+1436,nan,nan,,,Nenhuma identificação realizada
+1437,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+1438,nan,Palmeira,,N,Palmeira
+1439,nan,Mangueira,,N,Árvore de outra espécie
+1440,nan,Mangueira,,N,Árvore de outra espécie
+1441,nan,Poste,,PC,Nenhuma identificação realizada
+1442,nan,Poste,,PC,Nenhuma identificação realizada
+1443,nan,Palmeira,,PM,Palmeira
+1444,Folhas arredondadas,Mangueira,Y,P,Árvore de outra espécie
+1445,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1446,Postes,Mangueira,PC,P,Mangueira
+1447,nan,Mangueira,,P,Árvore de outra espécie
+1448,Outras,Mangueira,O,P,Árvore de outra espécie
+1449,Postes,Mangueira,PC,P,Mangueira
+1450,nan,Mangueira,,N,Árvore de outra espécie
+1451,nan,Palmeira,,N,Palmeira
+1452,nan,Poste,,PC,Nenhuma identificação realizada
+1453,nan,Palmeira,,P,Palmeira
+1454,Postes,Mangueira,PC,P,Mangueira
+1455,Folhas arredondadas,Mangueira,Y,N,Árvore de outra espécie
+1456,Folhas arredondadas,Mangueira,Y,P,Árvore de outra espécie
+1457,Folhas lineares,Palmeira,Y,N,Nenhuma identificação realizada
+1458,nan,Palmeira,,P,Palmeira
+1459,nan,Palmeira,,PM,Palmeira
+1460,Folhas lineares,Palmeira,Y,N,Nenhuma identificação realizada
+1461,nan,Poste,,PC,Nenhuma identificação realizada
+1462,nan,Palmeira,,P,Palmeira
+1463,Postes,Mangueira,PC,P,Mangueira
+1464,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1465,nan,Poste,,PC,Nenhuma identificação realizada
+1466,Folhas lineares,Amendoeira,Y,P,Árvore de outra espécie
+1467,nan,nan,,,Nenhuma identificação realizada
+1468,nan,Poste,,PC,Nenhuma identificação realizada
+1469,nan,Poste,,PC,Nenhuma identificação realizada
+1470,nan,Cajueiro,,P,Árvore de outra espécie
+1471,nan,nan,,,Nenhuma identificação realizada
+1472,nan,Palmeira,,N,Palmeira
+1473,nan,nan,,,Nenhuma identificação realizada
+1474,nan,Palmeira,,Y,Palmeira
+1475,nan,Mangueira,,N,Árvore de outra espécie
+1476,nan,Palmeira,,PM,Palmeira
+1477,nan,Mangueira,,P,Árvore de outra espécie
+1478,Postes,Amendoeira,PC,P,Amendoeira
+1479,Palmeira,Mangueira,Y,Y,Palmeira
+1480,Folhas arredondadas,Amendoeira,P,Y,Amendoeira
+1481,nan,Mangueira,,Y,Árvore de outra espécie
+1482,Folhas arredondadas,Cajueiro,Y,Y,Cajueiro
+1483,nan,nan,,,Nenhuma identificação realizada
+1484,Postes,Amendoeira,PC,Y,Amendoeira
+1485,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+1486,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+1487,nan,Mangueira,,P,Árvore de outra espécie
+1488,Folhas lineares,Amendoeira,P,P,Árvore de outra espécie
+1489,nan,Mangueira,,N,Árvore de outra espécie
+1490,nan,Palmeira,,Y,Palmeira
+1491,Folhas arredondadas,Mangueira,P,Y,Árvore de outra espécie
+1492,Postes,Amendoeira,PC,N,Amendoeira
+1493,Postes,Amendoeira,PC,N,Amendoeira
+1494,nan,Poste,,PC,Nenhuma identificação realizada
+1495,nan,Amendoeira,,P,Árvore de outra espécie
+1496,Palmeira,Palmeira,Y,Y,Palmeira
+1497,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1498,Outras,Mangueira,O,P,Árvore de outra espécie
+1499,nan,nan,,,Nenhuma identificação realizada
+1500,nan,Poste,,PC,Nenhuma identificação realizada
+1501,nan,Poste,,PC,Nenhuma identificação realizada
+1502,nan,nan,,,Nenhuma identificação realizada
+1503,Postes,Amendoeira,PC,N,Amendoeira
+1504,nan,Mangueira,,P,Árvore de outra espécie
+1505,nan,Amendoeira,,P,Árvore de outra espécie
+1506,nan,Poste,,PC,Nenhuma identificação realizada
+1507,nan,Palmeira,,P,Palmeira
+1508,Postes,Mangueira,PC,N,Mangueira
+1509,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1510,nan,Amendoeira,,P,Árvore de outra espécie
+1511,nan,Mangueira,,N,Árvore de outra espécie
+1512,nan,Palmeira,,PM,Palmeira
+1513,nan,Mangueira,,Y,Árvore de outra espécie
+1514,nan,Mangueira,,P,Árvore de outra espécie
+1515,nan,nan,,,Nenhuma identificação realizada
+1516,nan,Mangueira,,P,Árvore de outra espécie
+1517,nan,Poste,,P,Nenhuma identificação realizada
+1518,nan,Cajueiro,,N,Árvore de outra espécie
+1519,nan,Poste,,PC,Nenhuma identificação realizada
+1520,nan,Palmeira,,PM,Palmeira
+1521,nan,Palmeira,,N,Palmeira
+1522,nan,Palmeira,,N,Palmeira
+1523,nan,Mangueira,,P,Árvore de outra espécie
+1524,nan,Cajueiro,,P,Árvore de outra espécie
+1525,nan,Amendoeira,,P,Árvore de outra espécie
+1526,nan,Mangueira,,N,Árvore de outra espécie
+1527,Folhas arredondadas,Mangueira,CN,P,Árvore de outra espécie
+1528,nan,Amendoeira,,P,Árvore de outra espécie
+1529,nan,Palmeira,,N,Palmeira
+1530,Postes,Mangueira,PC,N,Mangueira
+1531,nan,Amendoeira,,P,Árvore de outra espécie
+1532,Folhas arredondadas,Mangueira,Y,P,Árvore de outra espécie
+1533,nan,Palmeira,,Y,Palmeira
+1534,nan,Amendoeira,,N,Árvore de outra espécie
+1535,nan,Palmeira,,Y,Palmeira
+1536,nan,Mangueira,,P,Árvore de outra espécie
+1537,Folhas arredondadas,Mangueira,N,Y,Árvore de outra espécie
+1538,nan,Palmeira,,Y,Palmeira
+1539,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+1540,nan,nan,,,Nenhuma identificação realizada
+1541,nan,Amendoeira,,P,Árvore de outra espécie
+1542,nan,Palmeira,,N,Palmeira
+1543,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+1544,Folhas arredondadas,Cajueiro,P,Y,Cajueiro
+1545,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1546,nan,Palmeira,,N,Palmeira
+1547,nan,Poste,,PC,Nenhuma identificação realizada
+1548,nan,Poste,,PC,Nenhuma identificação realizada
+1549,nan,Mangueira,,N,Árvore de outra espécie
+1550,Folhas lineares,Palmeira,Y,N,Nenhuma identificação realizada
+1551,Postes,Palmeira,PC,P,Nenhuma identificação realizada
+1552,nan,nan,,,Nenhuma identificação realizada
+1553,nan,Palmeira,,Y,Palmeira
+1554,Outras,Poste,O,PC,Nenhuma identificação realizada
+1555,nan,Mangueira,,P,Árvore de outra espécie
+1556,nan,Amendoeira,,N,Árvore de outra espécie
+1557,nan,Palmeira,,Y,Palmeira
+1558,nan,Mangueira,,P,Árvore de outra espécie
+1559,nan,Mangueira,,P,Árvore de outra espécie
+1560,nan,Poste,,PC,Nenhuma identificação realizada
+1561,nan,Mangueira,,N,Árvore de outra espécie
+1562,nan,Mangueira,,N,Árvore de outra espécie
+1563,nan,Poste,,PC,Nenhuma identificação realizada
+1564,nan,nan,,,Nenhuma identificação realizada
+1565,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+1566,nan,Poste,,PC,Nenhuma identificação realizada
+1567,nan,Palmeira,,N,Palmeira
+1568,nan,Palmeira,,P,Palmeira
+1569,Postes,Mangueira,PC,P,Mangueira
+1570,Folhas arredondadas,Amendoeira,Y,P,Amendoeira
+1571,Postes,Amendoeira,PC,N,Amendoeira
+1572,nan,Amendoeira,,N,Árvore de outra espécie
+1573,nan,Palmeira,,N,Palmeira
+1574,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+1575,Folhas lineares,Mangueira,Y,Y,Mangueira
+1576,nan,Poste,,PC,Nenhuma identificação realizada
+1577,Folhas arredondadas,Mangueira,P,N,Árvore de outra espécie
+1578,Postes,Amendoeira,PC,P,Amendoeira
+1579,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+1580,nan,Mangueira,,P,Árvore de outra espécie
+1581,nan,Poste,,PC,Nenhuma identificação realizada
+1582,nan,Mangueira,,N,Árvore de outra espécie
+1583,nan,Poste,,PC,Nenhuma identificação realizada
+1584,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1585,nan,Poste,,PC,Nenhuma identificação realizada
+1586,Folhas arredondadas,Mangueira,P,P,Árvore de outra espécie
+1587,nan,nan,,,Nenhuma identificação realizada
+1588,nan,Amendoeira,,P,Árvore de outra espécie
+1589,nan,Palmeira,,Y,Palmeira
+1590,Folhas arredondadas,Amendoeira,Y,P,Amendoeira
+1591,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1592,nan,nan,,,Nenhuma identificação realizada
+1593,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+1594,nan,nan,,,Nenhuma identificação realizada
+1595,Outras,Mangueira,O,P,Árvore de outra espécie
+1596,Palmeira,Palmeira,Y,Y,Palmeira
+1597,Outras,Mangueira,O,Y,Árvore de outra espécie
+1598,Postes,Mangueira,PC,P,Mangueira
+1599,nan,Poste,,PC,Nenhuma identificação realizada
+1600,nan,Poste,,PC,Nenhuma identificação realizada
+1601,nan,Amendoeira,,N,Árvore de outra espécie
+1602,nan,Amendoeira,,Y,Árvore de outra espécie
+1603,Postes,Mangueira,PC,Y,Mangueira
+1604,nan,Mangueira,,Y,Árvore de outra espécie
+1605,nan,Palmeira,,Y,Palmeira
+1606,nan,Palmeira,,N,Palmeira
+1607,nan,Palmeira,,PM,Palmeira
+1608,nan,Mangueira,,P,Árvore de outra espécie
+1609,Postes,Amendoeira,Pc,P,Amendoeira
+1610,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+1611,nan,Palmeira,,Y,Palmeira
+1612,nan,Palmeira,,N,Palmeira
+1613,nan,Poste,,PC,Nenhuma identificação realizada
+1614,nan,Poste,,	PC,Nenhuma identificação realizada
+1615,Outras,Mangueira,O,P,Árvore de outra espécie
+1616,nan,nan,,,Nenhuma identificação realizada
+1617,nan,Mangueira,,P,Árvore de outra espécie
+1618,Folhas lineares,Amendoeira,Y,Y,Árvore de outra espécie
+1619,Folhas lineares,Cajueiro,Y,P,Árvore de outra espécie
+1620,Postes,Mangueira,PC,Y,Mangueira
+1621,nan,Mangueira,,P,Árvore de outra espécie
+1622,nan,Poste,,PC,Nenhuma identificação realizada
+1623,Folhas arredondadas,Amendoeira,O[,P,Amendoeira
+1624,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+1625,nan,Mangueira,,N,Árvore de outra espécie
+1626,Palmeira,Poste,Y,PC,Palmeira
+1627,Outras,Mangueira,O,Y,Árvore de outra espécie
+1628,Folhas arredondadas,Mangueira,N,P,Árvore de outra espécie
+1629,nan,Amendoeira,,P,Árvore de outra espécie
+1630,nan,Palmeira,,Y,Palmeira
+1631,Folhas arredondadas,Mangueira, P,P,Árvore de outra espécie
+1632,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+1633,nan,Palmeira,,PM,Palmeira
+1634,nan,Palmeira,,N,Palmeira
+1635,nan,Palmeira,,Y,Palmeira
+1636,nan,Amendoeira,,N,Árvore de outra espécie
+1637,nan,Palmeira,,N,Palmeira
+1638,Postes,Amendoeira,PC,N,Amendoeira
+1639,Palmeira,Palmeira,N,N,Palmeira
+1640,nan,Amendoeira,,P,Árvore de outra espécie
+1641,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+1642,Folhas arredondadas,Palmeira,P,N,Nenhuma identificação realizada
+1643,Outras,Palmeira,O,Y,Nenhuma identificação realizada
+1644,Postes,Mangueira,PC,Y,Mangueira
+1645,nan,nan,,,Nenhuma identificação realizada
+1646,nan,Mangueira,,P,Árvore de outra espécie
+1647,nan,Amendoeira,,N,Árvore de outra espécie
+1648,Folhas arredondadas,Amendoeira,Y,P,Amendoeira
+1649,nan,Palmeira,,PM,Palmeira
+1650,Folhas arredondadas,Palmeira,Y,N,Nenhuma identificação realizada
+1651,nan,Mangueira,,N,Árvore de outra espécie
+1652,nan,Poste,,PC,Nenhuma identificação realizada
+1653,nan,Mangueira,,Y,Árvore de outra espécie
+1654,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+1655,nan,nan,,,Nenhuma identificação realizada
+1656,nan,Mangueira,,Y,Árvore de outra espécie
+1657,nan,Poste,,PC,Nenhuma identificação realizada
+1658,nan,Palmeira,,N,Palmeira
+1659,nan,Palmeira,,Y,Palmeira
+1660,nan,Amendoeira,,Y,Árvore de outra espécie
+1661,nan,Mangueira,,N,Árvore de outra espécie
+1662,Postes,Mangueira,PC,P,Mangueira
+1663,nan,Palmeira,,N,Palmeira
+1664,nan,Amendoeira,,N,Árvore de outra espécie
+1665,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+1666,Postes,Amendoeira,PC,Y,Amendoeira
+1667,Postes,Mangueira,PC,Y,Mangueira
+1668,nan,Mangueira,,P,Árvore de outra espécie
+1669,nan,nan,,,Nenhuma identificação realizada
+1670,nan,Palmeira,,Y,Palmeira
+1671,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+1672,nan,Amendoeira,,P,Árvore de outra espécie
+1673,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+1674,Folhas arredondadas,Palmeira,P,N,Nenhuma identificação realizada
+1675,nan,Poste,,PC,Nenhuma identificação realizada
+1676,nan,Mangueira,,N,Árvore de outra espécie
+1677,Palmeira,Palmeira,Y,Y,Palmeira
+1678,nan,Amendoeira,,P,Árvore de outra espécie
+1679,nan,Mangueira,,N,Árvore de outra espécie
+1680,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+1681,nan,Palmeira,,P,Palmeira
+1682,nan,nan,,,Nenhuma identificação realizada
+1683,nan,Mangueira,,Y,Árvore de outra espécie
+1684,Folhas arredondadas,Palmeira,N,N,Nenhuma identificação realizada
+1685,nan,Amendoeira,,N,Árvore de outra espécie
+1686,nan,Amendoeira,,P,Árvore de outra espécie
+1687,nan,Palmeira,,N,Palmeira
+1688,nan,Mangueira,,Y,Árvore de outra espécie
+1689,Folhas lineares,Mangueira,Y,P,Mangueira
+1690,nan,Palmeira,,Y,Palmeira
+1691,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1692,nan,nan,,,Nenhuma identificação realizada
+1693,Folhas lineares,Palmeira,N,N,Nenhuma identificação realizada
+1694,nan,Mangueira,,Y,Árvore de outra espécie
+1695,nan,Palmeira,,Y,Palmeira
+1696,nan,Palmeira,,Y,Palmeira
+1697,nan,Mangueira,,Y,Árvore de outra espécie
+1698,nan,Amendoeira,,Y,Árvore de outra espécie
+1699,nan,Palmeira,,PM,Palmeira
+1700,nan,Cajueiro,,P,Árvore de outra espécie
+1701,nan,nan,,,Nenhuma identificação realizada
+1702,Folhas arredondadas,Poste,Y,PC,Nenhuma identificação realizada
+1703,nan,Palmeira,,N,Palmeira
+1704,nan,Palmeira,,Y,Palmeira
+1705,nan,nan,,,Nenhuma identificação realizada
+1706,Postes,Mangueira,PC,N,Mangueira
+1707,nan,Palmeira,,PM,Palmeira
+1708,nan,nan,,,Nenhuma identificação realizada
+1709,Postes,Amendoeira,PC,Y,Amendoeira
+1710,nan,Poste,,PC,Nenhuma identificação realizada
+1711,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1712,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+1713,Folhas arredondadas,Amendoeira,Y,Y,Amendoeira
+1714,Folhas arredondadas,Amendoeira,Y,Y,Amendoeira
+1715,Palmeira,Palmeira,Y,Y,Palmeira
+1716,nan,Palmeira,,PM,Palmeira
+1717,Folhas arredondadas,Amendoeira,Y,Y,Amendoeira
+1718,nan,Palmeira,,Y,Palmeira
+1719,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+1720,Folhas lineares,Palmeira,Y,Y,Nenhuma identificação realizada
+1721,Outras,Amendoeira,O,Y,Árvore de outra espécie
+1722,nan,nan,,,Nenhuma identificação realizada
+1723,Postes,Mangueira,PC,Y,Mangueira
+1724,nan,nan,,,Nenhuma identificação realizada
+1725,Folhas lineares,Palmeira,Y,N,Nenhuma identificação realizada
+1726,nan,Amendoeira,,N,Árvore de outra espécie
+1727,Palmeira,Palmeira,Y,Y,Palmeira
+1728,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1729,nan,Palmeira,,Y,Palmeira
+1730,nan,nan,,,Nenhuma identificação realizada
+1731,nan,Palmeira,,N,Palmeira
+1732,Folhas arredondadas,Palmeira,Y,PM,Nenhuma identificação realizada
+1733,Palmeira,Palmeira,Y,Y,Palmeira
+1734,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+1735,nan,Amendoeira,,N,Árvore de outra espécie
+1736,nan,Poste,,PC,Nenhuma identificação realizada
+1737,Postes,Mangueira,PC,P,Mangueira
+1738,nan,Mangueira,,P,Árvore de outra espécie
+1739,Outras,Mangueira,O,P,Árvore de outra espécie
+1740,nan,Amendoeira,,Y,Árvore de outra espécie
+1741,nan,Mangueira,,M[3~,Árvore de outra espécie
+1742,nan,nan,,,Nenhuma identificação realizada
+1743,nan,Amendoeira,,P,Árvore de outra espécie
+1744,nan,Palmeira,,N,Palmeira
+1745,nan,Amendoeira,,N,Árvore de outra espécie
+1746,nan,Amendoeira,,P,Árvore de outra espécie
+1747,nan,Mangueira,,P,Árvore de outra espécie
+1748,Palmeira,nan,Y,,Palmeira
+1749,nan,Poste,,PC,Nenhuma identificação realizada
+1750,Palmeira,Mangueira,Y,Y,Palmeira
+1751,Folhas lineares,Amendoeira,Y,Y,Árvore de outra espécie
+1752,nan,Palmeira,,N,Palmeira
+1753,nan,Palmeira,,PM,Palmeira
+1754,Outras,Mangueira,O,P,Árvore de outra espécie
+1755,Outras,Mangueira,O,N,Árvore de outra espécie
+1756,nan,Amendoeira,,P,Árvore de outra espécie
+1757,nan,Mangueira,,P,Árvore de outra espécie
+1758,nan,Amendoeira,,N,Árvore de outra espécie
+1759,nan,Poste,,PC,Nenhuma identificação realizada
+1760,nan,Poste,,PC,Nenhuma identificação realizada
+1761,nan,Palmeira,,N,Palmeira
+1762,Postes,Mangueira,PC,P,Mangueira
+1763,nan,Palmeira,,N,Palmeira
+1764,nan,Mangueira,,P,Árvore de outra espécie
+1765,nan,Palmeira,,PM,Palmeira
+1766,Folhas arredondadas,Amendoeira,P,Y,Amendoeira
+1767,nan,Mangueira,,P,Árvore de outra espécie
+1768,nan,nan,,,Nenhuma identificação realizada
+1769,Folhas arredondadas,Amendoeira,Y,P,Amendoeira
+1770,nan,Amendoeira,,P,Árvore de outra espécie
+1771,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1772,nan,Mangueira,,P,Árvore de outra espécie
+1773,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+1774,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+1775,nan,Cajueiro,,P,Árvore de outra espécie
+1776,Postes,Palmeira,PC,P,Nenhuma identificação realizada
+1777,nan,Amendoeira,,N,Árvore de outra espécie
+1778,nan,Mangueira,,,Árvore de outra espécie
+1779,nan,Mangueira,,N,Árvore de outra espécie
+1780,nan,nan,,,Nenhuma identificação realizada
+1781,nan,Poste,,PC,Nenhuma identificação realizada
+1782,nan,Mangueira,,N,Árvore de outra espécie
+1783,nan,Poste,,PC,Nenhuma identificação realizada
+1784,nan,Palmeira,,Y,Palmeira
+1785,nan,Mangueira,,P,Árvore de outra espécie
+1786,nan,Mangueira,,N,Árvore de outra espécie
+1787,nan,Poste,,PC,Nenhuma identificação realizada
+1788,Palmeira,Palmeira,Y,Y,Palmeira
+1789,nan,nan,,,Nenhuma identificação realizada
+1790,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+1791,Postes,Palmeira,PC,B[,Nenhuma identificação realizada
+1792,nan,Poste,,PC,Nenhuma identificação realizada
+1793,Palmeira,Palmeira,Y,Y,Palmeira
+1794,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+1795,nan,Amendoeira,,N,Árvore de outra espécie
+1796,nan,Palmeira,,N,Palmeira
+1797,nan,Mangueira,,P,Árvore de outra espécie
+1798,nan,Cajueiro,,P,Árvore de outra espécie
+1799,Postes,Mangueira,PC,Y,Mangueira
+1800,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+1801,nan,nan,,,Nenhuma identificação realizada
+1802,nan,Palmeira,,N,Palmeira
+1803,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+1804,Folhas arredondadas,Mangueira,N,Y,Árvore de outra espécie
+1805,Postes,Amendoeira,PC,P,Amendoeira
+1806,nan,Palmeira,,Y,Palmeira
+1807,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1808,nan,Palmeira,,Y,Palmeira
+1809,nan,nan,,,Nenhuma identificação realizada
+1810,Postes,Amendoeira,PC,N,Amendoeira
+1811,Palmeira,Palmeira,Y,Y,Palmeira
+1812,Palmeira,Palmeira,Y,Y,Palmeira
+1813,nan,Palmeira,,N,Palmeira
+1814,Outras,Poste,O,PC,Nenhuma identificação realizada
+1815,Postes,Mangueira,PC,P,Mangueira
+1816,Palmeira,Palmeira,Y,Y,Palmeira
+1817,nan,Palmeira,,Y,Palmeira
+1818,nan,Poste,,PC,Nenhuma identificação realizada
+1819,Postes,Amendoeira,PC,N,Amendoeira
+1820,nan,nan,,,Nenhuma identificação realizada
+1821,nan,Poste,,PC,Nenhuma identificação realizada
+1822,Folhas arredondadas,Poste,P,PC,Nenhuma identificação realizada
+1823,nan,Palmeira,,Y,Palmeira
+1824,nan,Palmeira,,N,Palmeira
+1825,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+1826,nan,Palmeira,,Y,Palmeira
+1827,Folhas arredondadas,Palmeira,N,N,Nenhuma identificação realizada
+1828,nan,Mangueira,,P,Árvore de outra espécie
+1829,Postes,Cajueiro,PC,P,Cajueiro
+1830,nan,Poste,,PC,Nenhuma identificação realizada
+1831,nan,Palmeira,,Y,Palmeira
+1832,nan,nan,,,Nenhuma identificação realizada
+1833,nan,Palmeira,,N,Palmeira
+1834,nan,nan,,,Nenhuma identificação realizada
+1835,nan,Amendoeira,,P,Árvore de outra espécie
+1836,nan,Mangueira,,P,Árvore de outra espécie
+1837,Folhas arredondadas,Amendoeira,N,P,Amendoeira
+1838,nan,Poste,,PC,Nenhuma identificação realizada
+1839,nan,Palmeira,,N,Palmeira
+1840,nan,Poste,,PC,Nenhuma identificação realizada
+1841,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+1842,nan,Amendoeira,,P,Árvore de outra espécie
+1843,nan,Palmeira,,PM,Palmeira
+1844,Postes,Mangueira,PC,P,Mangueira
+1845,Folhas arredondadas,Mangueira,Y,P,Árvore de outra espécie
+1846,nan,Poste,,PC,Nenhuma identificação realizada
+1847,Outras,Mangueira,O,Y,Árvore de outra espécie
+1848,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+1849,Folhas arredondadas,Amendoeira,Y,P,Amendoeira
+1850,Folhas lineares,Mangueira,Y,P,Mangueira
+1851,Folhas arredondadas,Mangueira,P,P,Árvore de outra espécie
+1852,nan,Palmeira,,Y,Palmeira
+1853,nan,Amendoeira,,P,Árvore de outra espécie
+1854,nan,Poste,,PC,Nenhuma identificação realizada
+1855,nan,Mangueira,,P,Árvore de outra espécie
+1856,nan,Poste,,PC,Nenhuma identificação realizada
+1857,nan,nan,,,Nenhuma identificação realizada
+1858,nan,Amendoeira,,P,Árvore de outra espécie
+1859,nan,Palmeira,,Y,Palmeira
+1860,Postes,Mangueira,PC,n,Mangueira
+1861,nan,nan,,,Nenhuma identificação realizada
+1862,nan,Amendoeira,,P,Árvore de outra espécie
+1863,Postes,Mangueira,PC,P,Mangueira
+1864,nan,Palmeira,,Y,Palmeira
+1865,nan,Poste,,PC,Nenhuma identificação realizada
+1866,nan,Poste,,PC,Nenhuma identificação realizada
+1867,nan,nan,,,Nenhuma identificação realizada
+1868,nan,Mangueira,,P,Árvore de outra espécie
+1869,Folhas arredondadas,Mangueira,P,P,Árvore de outra espécie
+1870,Postes,Mangueira,PC,P,Mangueira
+1871,nan,nan,,,Nenhuma identificação realizada
+1872,Folhas lineares,Amendoeira,Y,P,Árvore de outra espécie
+1873,Folhas arredondadas,Amendoeira,Y,P,Amendoeira
+1874,nan,Palmeira,,Y,Palmeira
+1875,nan,nan,,,Nenhuma identificação realizada
+1876,Folhas lineares,Amendoeira,Y,P,Árvore de outra espécie
+1877,nan,Palmeira,,N,Palmeira
+1878,Outras,Palmeira,O,P,Nenhuma identificação realizada
+1879,nan,nan,,,Nenhuma identificação realizada
+1880,nan,nan,,,Nenhuma identificação realizada
+1881,Postes,Amendoeira,PC,P,Amendoeira
+1882,Folhas arredondadas,Amendoeira,P,Y,Amendoeira
+1883,nan,Mangueira,,N,Árvore de outra espécie
+1884,nan,nan,,,Nenhuma identificação realizada
+1885,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1886,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+1887,Palmeira,Palmeira,Y,PM,Palmeira
+1888,nan,Palmeira,,PM,Palmeira
+1889,Postes,Amendoeira,PC,N,Amendoeira
+1890,nan,Poste,,PC,Nenhuma identificação realizada
+1891,nan,Cajueiro,,P,Árvore de outra espécie
+1892,nan,Poste,,PC,Nenhuma identificação realizada
+1893,Folhas lineares,Cajueiro,Y,P,Árvore de outra espécie
+1894,nan,Mangueira,,P,Árvore de outra espécie
+1895,nan,Poste,,PC,Nenhuma identificação realizada
+1896,Folhas arredondadas,Cajueiro,Y,P,Cajueiro
+1897,Folhas lineares,Palmeira,N,N,Nenhuma identificação realizada
+1898,nan,nan,,,Nenhuma identificação realizada
+1899,nan,Palmeira,,PC,Palmeira
+1900,Outras,Mangueira,O,Y,Árvore de outra espécie
+1901,nan,Mangueira,,P,Árvore de outra espécie
+1902,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1903,Postes,Amendoeira,PC,Y,Amendoeira
+1904,Folhas arredondadas,Mangueira,N,N,Árvore de outra espécie
+1905,nan,Mangueira,,N,Árvore de outra espécie
+1906,nan,Mangueira,,P,Árvore de outra espécie
+1907,nan,Palmeira,,PM,Palmeira
+1908,Postes,Mangueira,PC,P,Mangueira
+1909,Folhas arredondadas,Mangueira,P,Y,Árvore de outra espécie
+1910,nan,Mangueira,,N,Árvore de outra espécie
+1911,nan,Amendoeira,,P,Árvore de outra espécie
+1912,nan,Mangueira,,N,Árvore de outra espécie
+1913,Outras,Amendoeira,O,P,Árvore de outra espécie
+1914,nan,Poste,,PC,Nenhuma identificação realizada
+1915,nan,Poste,,PC,Nenhuma identificação realizada
+1916,nan,Palmeira,,Y,Palmeira
+1917,Postes,Mangueira,PC,P,Mangueira
+1918,nan,Palmeira,,N,Palmeira
+1919,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+1920,nan,nan,,,Nenhuma identificação realizada
+1921,Folhas lineares,Palmeira,Y,N,Nenhuma identificação realizada
+1922,nan,Palmeira,,Y,Palmeira
+1923,nan,Palmeira,,Y,Palmeira
+1924,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1925,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1926,Folhas arredondadas,Mangueira,Y,P,Árvore de outra espécie
+1927,nan,Palmeira,,PM,Palmeira
+1928,nan,Poste,,PC,Nenhuma identificação realizada
+1929,nan,nan,,,Nenhuma identificação realizada
+1930,nan,Mangueira,,Y,Árvore de outra espécie
+1931,nan,Mangueira,,Y,Árvore de outra espécie
+1932,nan,nan,,,Nenhuma identificação realizada
+1933,Postes,Amendoeira,PC,P,Amendoeira
+1934,nan,Mangueira,,P,Árvore de outra espécie
+1935,Postes,Mangueira,PC,Y,Mangueira
+1936,Postes,Mangueira,PC,Y,Mangueira
+1937,Folhas arredondadas,Palmeira,Y,PM,Nenhuma identificação realizada
+1938,nan,Amendoeira,,Y,Árvore de outra espécie
+1939,nan,Mangueira,,N,Árvore de outra espécie
+1940,nan,nan,,,Nenhuma identificação realizada
+1941,nan,Mangueira,,Y,Árvore de outra espécie
+1942,Folhas arredondadas,Amendoeira,Y,Y,Amendoeira
+1943,nan,Poste,,PC,Nenhuma identificação realizada
+1944,nan,Amendoeira,,N,Árvore de outra espécie
+1945,nan,Palmeira,,Y,Palmeira
+1946,nan,Palmeira,,N,Palmeira
+1947,nan,Mangueira,,P,Árvore de outra espécie
+1948,nan,Mangueira,,N,Árvore de outra espécie
+1949,Folhas arredondadas,Mangueira,P,P,Árvore de outra espécie
+1950,nan,Amendoeira,,P,Árvore de outra espécie
+1951,nan,Poste,,PC,Nenhuma identificação realizada
+1952,Folhas arredondadas,Mangueira,P,Y,Árvore de outra espécie
+1953,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+1954,Outras,Mangueira,O,N,Árvore de outra espécie
+1955,nan,Palmeira,,N,Palmeira
+1956,Postes,Mangueira,PC,P,Mangueira
+1957,nan,Palmeira,,N,Palmeira
+1958,nan,Mangueira,,P,Árvore de outra espécie
+1959,Postes,Mangueira,PC,N,Mangueira
+1960,nan,Mangueira,,N,Árvore de outra espécie
+1961,Folhas arredondadas,Mangueira,Y,,Árvore de outra espécie
+1962,nan,Mangueira,,N,Árvore de outra espécie
+1963,Folhas arredondadas,Palmeira,Y,N,Nenhuma identificação realizada
+1964,nan,Poste,,PC,Nenhuma identificação realizada
+1965,Postes,Amendoeira,PC,P,Amendoeira
+1966,Folhas arredondadas,Amendoeira,P,N,Amendoeira
+1967,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+1968,nan,Mangueira,,P,Árvore de outra espécie
+1969,nan,Poste,,PC,Nenhuma identificação realizada
+1970,nan,nan,,,Nenhuma identificação realizada
+1971,nan,Mangueira,,P,Árvore de outra espécie
+1972,nan,Mangueira,,P,Árvore de outra espécie
+1973,nan,Poste,,PC,Nenhuma identificação realizada
+1974,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1975,nan,Palmeira,,Y,Palmeira
+1976,Folhas lineares,Palmeira,Y,N,Nenhuma identificação realizada
+1977,nan,Palmeira,,P,Palmeira
+1978,nan,Poste,,PC,Nenhuma identificação realizada
+1979,Postes,Mangueira,PC,P,Mangueira
+1980,nan,Palmeira,,N,Palmeira
+1981,nan,Mangueira,,N,Árvore de outra espécie
+1982,nan,Amendoeira,,P,Árvore de outra espécie
+1983,Outras,Palmeira,O,N,Nenhuma identificação realizada
+1984,Folhas arredondadas,Mangueira,N,P,Árvore de outra espécie
+1985,nan,Amendoeira,,P,Árvore de outra espécie
+1986,Folhas arredondadas,Amendoeira,P,P,Amendoeira
+1987,nan,Mangueira,,P,Árvore de outra espécie
+1988,Postes,Mangueira,PC,N,Mangueira
+1989,nan,Mangueira,,Y,Árvore de outra espécie
+1990,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+1991,nan,Poste,,PC,Nenhuma identificação realizada
+1992,Folhas arredondadas,Amendoeira,Y,P,Amendoeira
+1993,nan,Amendoeira,,P,Árvore de outra espécie
+1994,nan,Poste,,PC,Nenhuma identificação realizada
+1995,nan,nan,,,Nenhuma identificação realizada
+1996,nan,Mangueira,,P,Árvore de outra espécie
+1997,Postes,Poste,PC,PC,Nenhuma identificação realizada
+1998,Outras,Poste,O,P,Nenhuma identificação realizada
+1999,Postes,Poste,PC,PC,Nenhuma identificação realizada
+2000,nan,Poste,,PC,Nenhuma identificação realizada
+2001,nan,nan,,,Nenhuma identificação realizada
+2002,Palmeira,Palmeira,Y,Y,Palmeira
+2003,nan,Amendoeira,,P,Árvore de outra espécie
+2004,nan,Mangueira,,P,Árvore de outra espécie
+2005,Folhas arredondadas,Mangueira,Y,Y,Árvore de outra espécie
+2006,nan,Mangueira,,N,Árvore de outra espécie
+2007,nan,nan,,,Nenhuma identificação realizada
+2008,nan,Palmeira,,N,Palmeira
+2009,nan,Amendoeira,,P,Árvore de outra espécie
+2010,Postes,Amendoeira,PC,N,Amendoeira
+2011,nan,Amendoeira,,N,Árvore de outra espécie
+2012,Folhas arredondadas,Palmeira,N,N,Nenhuma identificação realizada
+2013,nan,Poste,,PC,Nenhuma identificação realizada
+2014,nan,Palmeira,,	PM,Palmeira
+2015,nan,Mangueira,,P,Árvore de outra espécie
+2016,nan,Palmeira,,N,Palmeira
+2017,Postes,Poste,PC,PC,Nenhuma identificação realizada
+2018,Outras,Palmeira,O,Y,Nenhuma identificação realizada
+2019,Postes,Mangueira,PC,P,Mangueira
+2020,Folhas lineares,Mangueira,Y,P,Mangueira
+2021,nan,Poste,,PC,Nenhuma identificação realizada
+2022,Postes,Mangueira,PC,P,Mangueira
+2023,nan,Palmeira,,Y,Palmeira
+2024,nan,nan,,,Nenhuma identificação realizada
+2025,Postes,Amendoeira,PC,N,Amendoeira
+2026,nan,Mangueira,,N,Árvore de outra espécie
+2027,nan,Palmeira,,N,Palmeira
+2028,nan,nan,,,Nenhuma identificação realizada
+2029,nan,Mangueira,,N,Árvore de outra espécie
+2030,Folhas arredondadas,Amendoeira,N,P,Amendoeira
+2031,Outras,Amendoeira,O,P,Árvore de outra espécie
+2032,nan,Amendoeira,,N,Árvore de outra espécie
+2033,Folhas arredondadas,Palmeira,Y,N,Nenhuma identificação realizada
+2034,nan,Palmeira,,PM,Palmeira
+2035,nan,Poste,,PC,Nenhuma identificação realizada
+2036,Palmeira,Palmeira,Y,	Y,Palmeira
+2037,nan,Palmeira,,Y[3~,Palmeira
+2038,nan,Poste,,PC,Nenhuma identificação realizada
+2039,nan,Mangueira,,N,Árvore de outra espécie
+2040,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+2041,nan,Mangueira,,P,Árvore de outra espécie
+2042,nan,Mangueira,,N,Árvore de outra espécie
+2043,Folhas arredondadas,Mangueira,P,P,Árvore de outra espécie
+2044,Folhas arredondadas,Amendoeira,Y,Y,Amendoeira
+2045,nan,nan,,,Nenhuma identificação realizada
+2046,nan,nan,,,Nenhuma identificação realizada
+2047,nan,Poste,,PC,Nenhuma identificação realizada
+2048,nan,Mangueira,,Y,Árvore de outra espécie
+2049,Palmeira,Palmeira,Y,Y,Palmeira
+2050,nan,Palmeira,,N,Palmeira
+2051,nan,Palmeira,,PM,Palmeira
+2052,nan,nan,,,Nenhuma identificação realizada
+2053,nan,Mangueira,,N,Árvore de outra espécie
+2054,nan,Amendoeira,,P,Árvore de outra espécie
+2055,nan,Amendoeira,,P,Árvore de outra espécie
+2056,nan,Mangueira,,N,Árvore de outra espécie
+2057,nan,nan,,,Nenhuma identificação realizada
+2058,nan,Mangueira,,N,Árvore de outra espécie
+2059,Postes,Poste,PC,PC,Nenhuma identificação realizada
+2060,nan,Poste,,PC,Nenhuma identificação realizada
+2061,nan,Mangueira,,N,Árvore de outra espécie
+2062,nan,nan,,,Nenhuma identificação realizada
+2063,nan,Cajueiro,,P,Árvore de outra espécie
+2064,nan,Poste,,PC,Nenhuma identificação realizada
+2065,nan,Palmeira,,PM,Palmeira
+2066,nan,Poste,,PC,Nenhuma identificação realizada
+2067,nan,Amendoeira,,P,Árvore de outra espécie
+2068,nan,nan,,,Nenhuma identificação realizada
+2069,nan,Palmeira,,Y,Palmeira
+2070,nan,Amendoeira,,P,Árvore de outra espécie
+2071,nan,Poste,,PC,Nenhuma identificação realizada
+2072,nan,nan,,,Nenhuma identificação realizada
+2073,nan,nan,,,Nenhuma identificação realizada
+2074,nan,Poste,,PC,Nenhuma identificação realizada
+2075,nan,nan,,,Nenhuma identificação realizada
+2076,nan,Mangueira,,N,Árvore de outra espécie
+2077,Postes,Palmeira,PC,N,Nenhuma identificação realizada
+2078,nan,Amendoeira,,N,Árvore de outra espécie
+2079,nan,Poste,,PC,Nenhuma identificação realizada
+2080,nan,nan,,,Nenhuma identificação realizada
+2081,Folhas arredondadas,Palmeira,P,Y,Nenhuma identificação realizada
+2082,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+2083,nan,nan,,,Nenhuma identificação realizada
+2084,Folhas arredondadas,Palmeira,P,Y,Nenhuma identificação realizada
+2085,nan,Poste,,PC,Nenhuma identificação realizada
+2086,nan,Mangueira,,N,Árvore de outra espécie
+2087,Postes,Amendoeira,PC,P,Amendoeira
+2088,nan,Mangueira,,N,Árvore de outra espécie
+2089,nan,Poste,,PC,Nenhuma identificação realizada
+2090,nan,Palmeira,,N,Palmeira
+2091,Palmeira,Palmeira,Y,Y,Palmeira
+2092,Postes,Palmeira,PC,Y,Nenhuma identificação realizada
+2093,nan,nan,,,Nenhuma identificação realizada
+2094,nan,Mangueira,,N,Árvore de outra espécie
+2095,nan,Palmeira,,N,Palmeira
+2096,nan,Poste,,PC,Nenhuma identificação realizada
+2097,nan,Mangueira,,P,Árvore de outra espécie
+2098,nan,Palmeira,,Y,Palmeira
+2099,nan,nan,,,Nenhuma identificação realizada
+2100,Postes,Palmeira,PC,PM,Nenhuma identificação realizada
+2101,nan,Poste,,PC,Nenhuma identificação realizada
